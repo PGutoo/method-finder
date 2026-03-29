@@ -11,7 +11,7 @@ def open_router_test():
     try:
         response = open_router(request.json['prompt'])
         # response = json.loads(response)
-        response = ast.literal_eval(response)
+        # response = ast.literal_eval(response)
 
         return response
     except Exception as e:
