@@ -1,11 +1,17 @@
 import json
 import ast
+from pathlib import Path
 
 import markdown
 from flask import Flask, Response, request, render_template
 from service.openrouter_service import DEFAULT_MODEL, mock_response, open_router
 
-app = Flask(__name__)
+_APP_DIR = Path(__file__).resolve().parent
+app = Flask(
+    __name__,
+    static_folder=str(_APP_DIR / "static"),
+    template_folder=str(_APP_DIR / "templates"),
+)
 
 RUN_MODES = {
     "mock": None,
