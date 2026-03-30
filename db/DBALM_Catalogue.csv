@@ -1,0 +1,1869 @@
+Document type,Title,No.,Topic area , Models and Strategies ,Biological endpoints,Experimental systems,EUProject,Regulatory  information,Supplementary materials (Downloads)
+Method summary,3-D Reconstructed Human Epidermis (RHE) models for skin irritation and corrosivity testing - Summary,117,Skin Irritation and Corrosivity,"3-DIMENSIONAL MODELS
+Human Origin
+Reconstructed Models of Keratinocytes","Cell viability
+Mediator release: cytokines
+Vital dye reduction: MTT to formazan","Reconstituted dermal model
+RHE EpiDermTM
+RHE EpiSkinTM
+RHE SkinEthicTM",,,
+Method summary,Adenosine Triphosphate (ATP) Assay -  Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Metabolic activity,L-929 - Mouse subcutaneous connective tissue cell line,,,
+Method summary,Agarose Diffusion Method - Summary,31,Eye Irritation,"Animal Origin
+Cell Lines",Vital dye release: Neutral Red (NRR),"L-929 - Mouse subcutaneous connective tissue cell line
+SIRC - Rabbit cornea epithelial cell line",,,
+Method summary,Aggregate culture systems - Summary,0,Developmental toxicity,,"Cell differentiation
+Cell function: membrane damage
+Cell proliferation
+Protein content: glial fibrillary acidic protein (GFAP)
+Protein content: myelin basic protein (MBP)
+Protein content: total","Embryo brain cells (chick, mouse, rat)
+Embryo neural retina cells (chick)",,,
+Method summary,Alginate entrapped primary hepatocytes (LiverBeadsTM) - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Hepatocytes Reaggregates
+Human Origin
+Primary Cell Culture","Cell function: membrane damage
+Cell viability
+Metabolic effects
+Protein content: total","LiverBeads<sup>TM</sup>
+Primary hepatocytes (mammals)",,,
+Method summary,Annexin V assay - Summary,0,Drug Discovery and Activity Testing,"Animal Origin
+Human Origin",Apoptosis,Cell line cultures,,,
+Method summary,AR-CALUX: Androgen-Responsive Transactivation Bioassay,187,Effects on Endocrine System,"Cell Lines
+Genetically Engineered Cells
+Human Origin","Androgenic activity
+Anti-androgenic activity
+Cell viability
+Receptor activity: Androgen Receptor (AR)
+Reporter gene expression: Luciferase (Luc)",AR-CALUX - Engineerd human osteoblastic osteosarcoma (U2-OS) cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2010-07,
+Method summary,Artificial membranes for percutaneous absorption testing - Summary,0,Percutaneous Absorption,BIO-CHEMICALS & POLYMERS,"Relative absorption
+Skin permeation",Skin Tissues (artificial membranes),,,
+Method summary,ATR-FTIR Spectroscopy - Summary,0,Percutaneous Absorption,"Animal Origin
+Human Origin
+Non viable isolated tissues (epidermal membranes & full thickness skin)
+PHYSICO-CHEMICAL ASSAYS",Relative absorption,"Keratinocytes (human)
+Skin tissues (animal or human origin)
+Skin Tissues (artificial membranes)",,,
+Method summary,Bacterial reverse mutation test (Ames test),30,Genotoxicity/Mutagenicity,"Cell Lines
+Genetically Engineered Cells
+Microorganisms","Gene mutation
+Gene mutation: deletion
+Gene mutation: frame-shift
+Gene mutation: insertion
+Gene mutation: reverse mutation
+Gene mutation: substitution","<em>Escherichia coli</em>
+Salmonella typhimurium",,,
+Method summary,BfR Decision Support System - Summary,0,Eye Irritation,(Q)SARs,,,,,
+Method summary,Bhas 42 cell transformation assay in 6- and 96-well plates - Summary,156,Cell transformation,"Animal Origin
+Cell Lines
+Genetically Engineered Cells","Cell number
+Morphological transformation of cell colonies",Bhas 42 - Engineered mouse embryo BALB 3T3 cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2012-06,
+Method summary,Bovine Corneal Opacity and Permeability (BCOP) Assay - Summary,98,Eye Irritation,"Animal Origin
+Corneal Models
+Eye & Eye Parts","Corneal epithelium integrity
+Corneal opacity
+Corneal permeability
+Protein denaturation",Cornea (bovine),,,
+Method summary,Bovine Enucleated Eye Test (BEET) - Summary,0,Eye Irritation,,"Cell integrity
+Corneal thickness",Enucleated eye (bovine),,,
+Method summary,Bovine Eye - Chorioallantoic Membrane (BE-CAM) Test - Summary,0,Eye Irritation,"Animal Origin
+Eye & Eye Parts
+IN OVO METHODS","Blood coagulation: intravascular and extravasular
+Corneal epithelium detachment
+Corneal epithelium integrity
+Corneal opacity
+Haemorrhage
+Injection of capillaries","Chorioallantoic Membrane (CAM) (chicken egg)
+Enucleated eye (bovine)",,,
+Method summary,Bovine Eye Cup (BECUP) Model - Summary,0,Eye Irritation,"Animal Origin
+Corneal Models
+Eye & Eye Parts",Mediator release: histamine,Cornea (bovine),,,
+Method summary,Brain Reaggregate Culture for in vitro testing of neurotoxic compounds - Summary,11,Neurotoxicity,Brain Reaggregates,"Astrocyte specific effects
+Cell function: membrane damage
+Cell morphology
+Cell proliferation
+Cell viability
+Gene expression: Glial fibrillary acidic protein (GFAP)
+Gene expression: Myelin basic protein (MBP)
+Microglia specific effects
+Myelin formation
+Neuron specific effects
+Oligodendrocyte specific effects
+Protein synthesis","Brain areas (rat, mice, chick or humans)",,,
+Method summary,Caenorhabditis elegans Model - Summary,0,Developmental toxicity,Animal Origin,"Larval length (<em>C. elegans</em>)
+Reproductive performance",Nematode worm (<em>Caenorhabditis elegans</em>)<em><br /></em>,,,
+Method summary,Cell Detachment Assay - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines",Cell adhesion,"BHK-21/C13 - Syrian hamster kidney epithelial cells
+Keller cells - Immortalized human diploid fibroblastic cell line
+MRC-5 Cells",,,
+Method summary,Cell Lysis Assay - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines",Optical density,"L-929 - Mouse subcutaneous connective tissue cell line
+SIRC - Rabbit cornea epithelial cell line",,,
+Method summary,Cell transformation assay with BALB/c 3T3 cells (BALB/c 3T3 CTA) - Summary,137,Cell transformation,Cell Lines,"Cell number
+Colony formation
+Morphological effects
+Plating efficiency",BALB/c 3T3 - Mouse fibroblast cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2004-07,
+Method summary,Chick Yolk Sac Blood Vessel Assay - Summary,56,Eye Irritation,"Animal Origin
+IN OVO METHODS","Haemorrhage
+Hyperaemia",Yolk sac blood vessel system (chick embryo),,,
+Method summary,Chicken Embryotoxicity Test (in ovo and ex ovo) - Summary,0,Developmental toxicity,Animal Origin,"Apoptosis
+Cell differentiation
+Cell migration
+Cellular functional parameters
+DNA damage: oxidation
+Embryo development
+Embryo growth
+Embryo morphology
+Embryo viability
+Gene expression: Alpha actin
+Gene expression: Aryl hydrocarbon receptor (AhR)
+Gene expression: Beta actin
+Gene expression: Beta-adrenergic receptor
+Gene expression: Biomarkers
+Gene expression: Cytochrome P450 isoenzymes (CYP450)
+Gene expression: Homeobox protein ANF
+Gene expression: Hypoxia-inducible factor 1 (HIF1A)
+Gene expression: Insulin-like growth factor-1 (ILGF-1)
+Gene expression: Uridine glucuronosyltransferase (UGT or UDPGT)
+Gene expression: Vascular endothelial growth factor (VEGF)
+Generation of Reactive Oxygen Species (ROS)
+Heart functional parameters
+Protein synthesis","Chick embryo in ovo
+Whole embryo culture (chicken)",,,
+Method summary,Chorioallantoic Membrane Vascular Assay (CAMVA) - Summary,0,Eye Irritation,"Animal Origin
+IN OVO METHODS",Vascular damage,Chorioallantoic Membrane (CAM) (chicken egg),,,
+Method summary,Chorioallantoic Membrane-Trypan Blue Staining (CAM-TBS) Assay - Summary,108,Eye Irritation,"Animal Origin
+IN OVO METHODS","Cell viability
+Trypan blue adsorption",Chorioallantoic Membrane (CAM) (chicken egg),,,
+Method summary,Chromium (Cr51) Release Assay - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Cell function: membrane damage,"P-815
+RCE - Rabbit corneal epithelial cell line
+SIRC - Rabbit cornea epithelial cell line
+Yak-1",,,
+Method summary,Co-culture of primary hepatocytes with another cell type - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,Co-cultures,"Cell adhesion
+Cell communication
+Cell function: membrane damage
+Cell morphology
+Cell proliferation
+Cell viability
+Cellular functional parameters
+Chromosomal damage: micronuclei formation
+DNA damage: adduct formation
+DNA damage: sister chromatid exchange (SCE)
+DNA damage: strand breakage
+Gene expression: Biomarkers
+Gene mutation
+Metabolic competence
+Metabolic effects
+Steatosis","Co-cultures from primary hepatocytes with non-liver cells
+Co-cultures from primary hepatocytes with non-parenchymal liver cells",,,
+Method summary,Collagen-gel sandwich configuration culture of primary hepatocytes - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,Sandwich Culture of Hepatocytes,"Cell function: membrane damage
+Cell function: peroxisome proliferation
+Cell viability
+Cellular functional parameters
+Gene expression profiling (omics techniques)
+Gene expression: Cytochrome P450 isoenzymes (CYP450)
+Metabolic competence",Primary hepatocytes (mammals),,,
+Method summary,Colony Forming Assays - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Colony formation,"BHK-21/C13 - Syrian hamster kidney epithelial cells
+SIRC - Rabbit cornea epithelial cell line",,,
+Method summary,Computer Assisted Semen Analysis (CASA) - Summary,21,Effects on the male fertility,"Animal Origin
+Human Origin
+Primary Cell Culture","Sperm function
+Sperm morphology
+Sperm motility
+Sperm viability",Spermatozoa,ReProTect,,
+Method summary,Corneal Epithelial Plasminogen Activator (CEPA) Assay - Summary,0,Eye Irritation,"Animal Origin
+Primary Cell Culture",Mediator release: plasminogen activator,RCE - Rabbit corneal epithelial cell line,,,
+Method summary,Corneal Epithelial Wound Closure (CEWC) Assay - Summary,0,Eye Irritation,"Animal Origin
+Primary Cell Culture",Cell migration,RCE - Rabbit corneal epithelial cell line,,,
+Method summary,Crystal Violet Staining (CVS) Assay - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Cell number,SIRC - Rabbit cornea epithelial cell line,,,
+Method summary,Culture of freshly isolated nonparenchymal liver cells and nonparenchymal cell lines - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Cell Lines
+Genetically Engineered Cells
+Primary Cell Culture","Apoptosis
+Calcium homeostasis perturbation
+Cell adhesion
+Cell function: membrane damage
+Cell morphology
+Cell viability
+Cell-cell contact: gap junction integrity
+Cellular functional parameters
+DNA damage: strand breakage
+Gene expression: Biomarkers
+Gene expression: Heat shock proteins
+Gene expression: Metallothionein II
+Gene expression: Pro-inflammatory cytokines (e.g. TNF-alpha, IFN-gamma, IL-6 and IL-12)
+Gene expression: Transforming growth factor-beta (TGF-&#223;)
+Lipid peroxidation
+Mediator release: nitric oxide (NO)
+Mediator release: prostaglandins
+Mediator release: tumor necrosis factor <em>alpha</em> (TNF-<em>alpha</em>)
+Metabolic effects","BEC - Human biliary epithelial cells
+BEC - Rat intrahepatic biliary epithelial cells
+Canine bile duct epithelial cell line
+CFSC - cirrhotic fat-storing rat hepatic stellate cell line
+CFSC-2G - Rat hepatic stellate cell lines
+Hepatic stellate cells
+Intrahepatic biliary epithelial cells
+LX-2 - Human hepatic stellate cell line
+NFSC - Normal fat-storing rat hepatic stellate cell line
+Primary mouse hepatic stellate cells
+Primary rat hepatic stellate cells
+Primary rat liver Kupffer cells
+Primary rat liver Kupffer cells
+Primary rat portal fibroblasts
+T-HSC/Cl-6 - Transfected rat hepatic stellate cell line
+WB-Fischer 344 - Rat liver epithelial cell line",,,
+Method summary,Culture of Palatal Shelves - Summary,0,Developmental toxicity,"Animal Origin
+Cell Lines
+Human Origin","Apoptosis
+Cell morphology
+Cell proliferation
+Cellular functional parameters
+Embryo growth",Embryonic palatal shelves culture,,,
+Method summary,Cultures of Embryonal Carcinoma Cells - Summary,0,Developmental toxicity,"Animal Origin
+Cell Lines","Cell differentiation
+Cell morphology
+Cell proliferation
+Cell viability
+Cell viability
+Gene expression profiling (omics techniques)
+Gene expression: Biomarkers","F9 - Mouse embryonal carcinoma cell line
+Mouse embryonal carcinoma cells
+Mouse F9 and P19 embryonal carcinoma cells co-cultured with END-2 cell line
+P19 - Mouse embryonal carcinoma cell line",,,
+Method summary,Cytokine Release Assays - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Mediator release: cytokines,"CEPI - Human corneal epithelial cell line
+Corneal epithelial cells (human)
+NCTC 2544 - Human keratinocyte cell line
+Rat corneal epithelial cell line (RtCE)",,,
+Method summary,Determination of DNA fragmentation with 4'-6-diamidine-2-phenylindole (DAPI) staining - Summary,0,Drug Discovery and Activity Testing,"Animal Origin
+Cell Lines
+Human Origin",Apoptosis,Cell line cultures,,,
+Method summary,Differentiation of induced-pluripotent stem cells into post-mitotic neurons and glial cells (mixed culture),165,Stem cell culture method,"Human Origin
+Stem Cells",,hiPS(IMR90) - Human induced-pluripotent stem cells,SEURAT-1,,
+Method summary,Diphenylamine assay - Summary,0,Drug Discovery and Activity Testing,"Animal Origin
+Cell Lines
+Human Origin",Apoptosis,Cell line cultures,,,
+Method summary,Direct Peptide Reactivity Assay (DPRA) - Summary,154,Skin Sensitisation & Allergic Contact Dermatitis,"BIO-CHEMICALS & POLYMERS
+PHYSICO-CHEMICAL ASSAYS",Direct peptide reactivity,Peptides containing Cys or Lys (synthetic),,https://tsar.jrc.ec.europa.eu/test-method/tm2009-06,
+Method summary,DNA fragmentation stains using the bisbenzimide dyes (Hoescht 33258 and Hoescht 3334) - Summary,0,Drug Discovery and Activity Testing,"Animal Origin
+Cell Lines
+Human Origin",Apoptosis,Cell line cultures,,,
+Method summary,DNA methylation analysis using HumanMethylation450k microarray,170,Mechanistic Studies,,"CpG Methylation
+Genomic DNA Methylation",Human Methylation 450 BeadChip microarray,SEURAT-1,,
+Method summary,Embryonic Palate Mesenchymal Cells Cultures (primary cells and cell lines) - Summary,0,Developmental toxicity,"Animal Origin
+Cell Lines
+Human Origin","Apoptosis
+Cell cycle analysis
+Cell proliferation
+Cell viability
+Generation of Reactive Oxygen Species (ROS)","HEPM - Human embryonal palatal mesenchymal cells
+Primary murine embryonic maxillary mesenchymal cells
+Primary murine embryonic palatal mesenchymal cells",,,
+Method summary,Embryonic Stem Cell Test (EST) - Summary,113,Developmental toxicity,"Animal Origin
+Human Origin
+Stem Cells","Apoptosis
+Cell cycle analysis
+Cell differentiation
+Cell function: membrane damage
+Cell proliferation
+Cell viability
+Cellular functional parameters
+DNA damage: strand breakage
+Gene expression profiling (omics techniques)
+Gene expression profiling (omics techniques)
+Generation of Reactive Oxygen Species (ROS)
+Metabolite profile (omics techniques)","3T3 - Mouse fibroblasts
+D3 - Mouse embryonic stem cells
+Embryonic stem cells (ES)",ReProTect,https://tsar.jrc.ec.europa.eu/test-method/tm1999-01,
+Method summary,EpiOcularTM Eye Irritation Test - Summary,164,Eye Irritation,"Corneal Models
+Human Origin","Cell viability
+Vital dye reduction: MTT to formazan","EpiOcularTM
+Reconstituted corneal model",,https://tsar.jrc.ec.europa.eu/test-method/tm2008-10,
+Method summary,EpiskinTM and other Keratinocyte-based Dermal Models in eye irritation testing - Summary,0,Eye Irritation,"3-DIMENSIONAL MODELS
+Corneal Models
+Human Origin
+Reconstructed Models of Keratinocytes","Cell viability
+Fluorescein leakage (FL)
+Mediator release: cytokines","Reconstituted dermal model
+RHE EpiSkinTM",,,
+Method summary,Extended One Generation Reproductive Toxicity Study - Summary,0,Developmental toxicity,"IN VIVO MODELS
+Reduction","Blood: functional and biochemical parameters
+Body weight
+Developmental effects
+Developmental effects
+Developmental effects
+Mating performance and pregnancy
+Oestrus cyclicity
+Organ weight
+Organism behavior (clinical observation)
+Sperm function
+Tissue histopathology
+Tissue histopathology
+Urine content", Rattus norvegicus- Rat,,,
+Method summary,Eye Irritation Assays using Liposomes - Summary,0,Eye Irritation,"Animal Origin
+Eye & Eye Parts
+PHYSICO-CHEMICAL ASSAYS",Cell function: membrane damage,Liposomes,,,
+Method summary,Eye Lens Culture Assay - Summary,60,Eye Irritation,"Animal Origin
+Eye & Eye Parts","Focal length variability
+Optical transparency","Eye lens (bovine)
+Eye lens (fish)
+Eye lens (porcine)
+Eye lens (rabbit)
+Eye lens (rat)",,,
+Method summary,EYTEX TM System - Summary,110,Eye Irritation,PHYSICO-CHEMICAL ASSAYS,"Optical density
+Protein denaturation","EYTEX<sup><span class=""text_small"">TM</span></sup>
+IRRITECTION<sup><span class=""text_small"">TM</span></sup>
+Protein matrix",,,
+Method summary,Fetal Mouse Salivary Glands Cultures - Summary,0,Developmental toxicity,"Animal Origin
+Salivary Glands","Apoptosis
+Cell proliferation
+Lobe formation in <span id=""id_met=278-outerCt"">fetal mouse salivary gland</span>s
+Morphological effects
+Protein expression",Salivary glands culture (mouse),,,
+Method summary,Flow-through Diffusion Cells - Summary,53,Percutaneous Absorption,Viable Skin Explants,"Flux (across skin models)
+Permeability coefficient
+Relative absorption",Skin tissues (animal or human origin),,,
+Method summary,Fluorescein Leakage Test (FLT) - Summary,71,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin","Cell-cell contact: tight junction integrity
+Cell-cell contact: tight junction integrity
+Fluorescein leakage (FL)","MDCK - Madin-Darby canine kidney cell line
+NHEK - Normal human epidermal keratinocytes",,https://tsar.jrc.ec.europa.eu/test-method/tm2004-02,
+Method summary,Fluorescence Differential Staining Assay - Summary,38,Eye Irritation,"Animal Origin
+Cell Lines
+Corneal Models
+Human Origin
+Primary Cell Culture","Cell function: membrane damage
+Cell viability","HeLa - Human cervix carcinoma cell line
+HEp2 - Human larynx epidermoid carcinoma cell line
+LS-L-929 - Mouse fibroblast cell line
+Thymocytes (rat)",,,
+Method summary,Follicle Culture Bioassay (FBA) - Summary,0,Effects on the female fertility,Animal Origin,"Cell development
+Cellular functional parameters
+Folliculogenesis
+Oogenesis",Follicle culture system,,,
+Method summary,Genetically Modified Embryonic Stem Cells (ReProGlo) - Summary,0,Developmental toxicity,Animal Origin,"Cell differentiation
+Cell viability
+Gene expression profiling (omics techniques)
+Gene expression profiling (omics techniques)","3T3 - Mouse fibroblasts
+D3 - Mouse embryonic stem cells
+Embryonic stem cells (ES)",ReProTect,,
+Method summary,Genomics technology to investigate hepatotoxicity in vitro - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin","Gene expression profiling (omics techniques)
+Metabolite profile (omics techniques)
+Protein expression (omics techniques)","Liver cell lines
+Precision-cut liver slices
+Primary hepatocytes (mammals)",,,
+Method summary,Granulosa and Theca Cell Culture Systems - Summary,92,Effects on the female fertility,"Animal Origin
+Human Origin
+Primary Cell Culture","Apoptosis
+Cell proliferation
+Cell viability
+Cellular functional parameters","Cell line cultures
+Ovarian granulosa cells culture (human)",ReProTect,,
+Method summary,Growth Inhibition Assay - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin",Cell number,"3T3 - Mouse fibroblasts
+BHK-21/C13 - Syrian hamster kidney epithelial cells
+Keller cells - Immortalized human diploid fibroblastic cell line
+MRC-5 Cells",,,
+Method summary,Haemoglobin Denaturation (HD) Assay - Summary,109,Eye Irritation,Animal Origin,Protein denaturation,Haemoglobin (bovine),,,
+Method summary,Hen's Egg Test on the Chorioallantoic Membrane (HET-CAM),96,Eye Irritation,"Animal Origin
+IN OVO METHODS","Blood coagulation: intravascular and extravasular
+Blood vessel lysis
+Haemorrhage",Chorioallantoic Membrane (CAM) (chicken egg),,,
+Method summary,HepaRG repeated dose exposure in vitro assay of mitochondrial health and steatosis,167,Systemic Toxicity,"Cell Lines
+Human Origin","Cell function: mitochondrial activity
+Cell number
+Cell viability
+Liver function
+Steatosis",HepaRG - Human hepatoma cell line,SEURAT-1,,
+Method summary,Hepatocyte cultures on biosensor systems - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines
+Co-cultures
+Human Origin
+Liver slices
+Primary Cell Culture","Cell adhesion
+Cell viability
+Cellular functional parameters",Liver-on-chip biosensors,,,
+Method summary,Hepatocyte spheroid culture using primary hepatocytes or hepatic cell lines - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines
+Hepatocytes Reaggregates
+Human Origin
+Primary Cell Culture","Cell aggregation
+Cell function: membrane damage
+Cell function: peroxisome proliferation
+Cell morphology
+Cell viability
+Cellular functional parameters
+Enzyme induction: <span id=""id_met=323-outerCt"">cytochrome P450 family</span>
+Enzyme induction: peroxisomal bifunctional enzyme
+Gene expression: Estrogen receptor-mediated vitellogenin induction
+Metabolic competence
+Metabolic effects","HepG<sub>2</sub> - Human hepatoma cell line
+Spheroids from primary hepatocytes",,,
+Method summary,Highest Tolerated Dose (HTD) Assay - Summary,64,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin",Cell morphology,"3T3 - Mouse fibroblasts
+CCC clone 81 - Cat kidney fibroblast cell line
+HepG<sub>2</sub> - Human hepatoma cell line
+RAW 264.7 - Mous Abelson Murine Leukemia virus-induced tumor cell line
+V79 - Chinese hamster fibroblast cell line",,,
+Method summary,Histamine Release by Mast Cells - Summary,0,Eye Irritation,"Animal Origin
+Primary Cell Culture",Mediator release: histamine,Mast cells (rat),,,
+Method summary,Human Corneal Epithelium-transfected (HCE-T) Tissue Construct Model - Summary,0,Eye Irritation,"Cell Lines
+Corneal Models
+Human Origin","Cell viability
+TransEpithelial Permeability (TEP)
+Transpithelial Electrical Resistance (TER)","HCE-T - Transformed human corneal epithelial cells
+HCR-T - 10.014 pRSV-T transfected human corneal epithelium cells
+Reconstituted corneal model",,,
+Method summary,Hydra attenuata - Summary,0,Developmental toxicity,,"Cnidaria viability
+Embryo development
+Embryo viability
+<em>Hydra</em> regeneration",Hydra - adult and isolated regions of the body,,,
+Method summary,In silico  screening for potential nuclear receptor ligands and alerts towards hepatosteatosis,177,Systemic Toxicity,COMPUTER MODELLING,"Receptor binding: Aryl hydrocarbon receptor (AHR)
+Receptor binding: Estrogen receptor (ER)
+Receptor binding: Farnesoid X receptor (FXR)
+Receptor binding: Glucocorticoid receptor (GR)
+Receptor binding: Liver X receptor (LXR)
+Receptor binding: Peroxisome proliferator-activated receptor alpha (PPAR&#945;)
+Receptor binding: Pregnane X receptor (PXR)
+Receptor binding: Retinoic acid receptor (RAR)
+Receptor binding: Retinoid X receptor (RXR)",<em>In silico</em>,SEURAT-1,,
+Method summary,In silico profiler for covalent DNA binding,178,Systemic Toxicity,COMPUTER MODELLING,DNA damage: adduct formation,<em>In silico</em>,SEURAT-1,,
+Method summary,In silico profiler for covalent protein binding,181,Systemic Toxicity,COMPUTER MODELLING,Protein binding,<em>In silico</em>,SEURAT-1,,
+Method summary,In silico profiler for hepatotoxicity,179,Systemic Toxicity,COMPUTER MODELLING,Hepatotoxicity,<em>In silico</em>,SEURAT-1,,
+Method summary,In silico profiler for mitochondrial toxicity,180,Systemic Toxicity,,,,SEURAT-1,,
+Method summary,In silico skin permeability estimation,182,Systemic Toxicity,,,,SEURAT-1,,
+Method summary,In vitro approaches for testing neurotoxicity through ionotropic glutamate receptors - Summary,0,Neurotoxicity,"Animal Origin
+Primary Cell Culture","Excitotoxicity
+Ion flux through ligand-gated channels
+Receptor binding: Glutamate receptors
+Receptor function: ion flux","African clawed frog (<em>Xenopus Laevis</em>) oocytes
+Murine brain membranes (rat and mouse)
+Primary neuronal cultures
+Transfected cells",,,
+Method summary,In vitro approaches for testing neurotoxicity through the GABAA receptor - Summary,0,Neurotoxicity,"Animal Origin
+Cell Lines
+Primary Cell Culture","Ion channel function, chloride
+Ion flux through ligand-gated channels
+Receptor binding: gamma Aminobutyric acid receptor (GABA)
+Receptor function: ion flux","Brain areas (rat, mice, chick or humans)",,,
+Method summary,In vitro approaches for testing neurotoxicity through voltage-sensitive sodium channels - Summary,0,Neurotoxicity,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture","Cell function: membrane depolarisation
+Cell viability
+Ion channel function, sodium
+Ion channel function, toxin binding sites
+Ion flux through ligand-gated channels
+Spontaneous contractility of myotubes","Brain areas (rat, mice, chick or humans)",,,
+Method summary,In vitro Fertilisation Assay - Summary,59,Effects on the female fertility,"Animal Origin
+Primary Cell Culture","Cell viability
+Embryo morphology
+Oocyte fertilisation","Bovine cumulus/oocyte complexes [COCs]
+Sperm, cryopreserved",ReProTect,,
+Method summary,In vitro Sperm Chromatin Structure Assay (SCSA) - Summary,0,Effects on the male fertility,"Animal Origin
+Human Origin
+Primary Cell Culture","DNA damage: strand breakage
+Sperm function
+Sperm motility
+Sperm viability",Spermatozoa,ReProTect,,
+Method summary,Incubation techniques for the use of liver slices - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin
+Liver slices",,"Hand-cut liver slices
+Precision-cut liver slices",,,
+Method summary,Innervated Human Corneal Equivalent - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Co-cultures
+Corneal Models
+Human Origin
+Primary Cell Culture",Mediator release: neuropeptide substance P (SP),Reconstituted corneal model,,,
+Method summary,Insert Delivery of non-aqueous material - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Cell viability,,,,
+Method summary,Ishikawa Cell Test - Summary,0,Effects on the female fertility,Human Origin,"Cell viability
+Gene expression: Progesterone receptor
+Protein content: progesterone receptor",Ishikawa cells - Human endometrial adenocarcinoma cell line,ReProTect,,
+Method summary,Isolated Chicken Eye (ICE) Test - Summary,80,Eye Irritation,"Animal Origin
+Eye & Eye Parts","Corneal opacity
+Corneal thickness
+Fluorescein retention
+Morphological effects",Enucleated eye (chicken),,,
+Method summary,Isolated hepatocyte couplets - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin
+Primary Cell Culture","Calcium homeostasis perturbation
+Canalicular function
+Cell communication
+Cell function: membrane damage
+Cell morphology
+Cell viability
+Lipid peroxidation
+Metabolic effects",Isolated rat hepatocyte couplets (IRHC),,,
+Method summary,Isolated perfused liver  - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Perfused liver","Calcium homeostasis perturbation
+Cell function: membrane damage
+Cell morphology
+Cell viability
+Generation of Reactive Oxygen Species (ROS)
+Haemodynamic effects
+Ion transport, active
+Lipid peroxidation
+Liver function
+Liver morphology
+Metabolic competence
+Metabolic effects
+Protein oxidation","Isolated perfused mouse liver
+Isolated perfused porcine liver
+Isolated perfused rat liver (IPRL)",,,
+Method summary,Isolated Rabbit Eye (IRE) Test - Summary,85,Eye Irritation,"Animal Origin
+Eye & Eye Parts","Corneal histology
+Corneal opacity
+Corneal thickness
+Fluorescein retention",Enucleated eye (rabbit),,,
+Method summary,KeratinoSens™  - Summary,155,Skin Sensitisation & Allergic Contact Dermatitis,"Cell Lines
+Genetically Engineered Cells
+Human Origin",Gene expression: Antioxidant response element (ARE)-mediated,KeratinoSens&#8482; cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2010-03,
+Method summary,Lactate Dehydrogenase (LDH) Leakage - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Cell function: membrane damage,"HEL-30 - Mouse epidermal keratinocyte cell line
+HeLa S3 - Human cervix carcinoma cell line, clone S3
+RCE - Rabbit corneal epithelial cell line
+SQ-5",,,
+Method summary,Leucine Incorporation Assay - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin",Protein synthesis,HEL-30 - Mouse epidermal keratinocyte cell line,,,
+Method summary,Leydig Cell-enriched Cultures - Summary,0,Effects on the male fertility,"Animal Origin
+Co-cultures
+Human Origin","Apoptosis
+Cell function: membrane damage
+Cell morphology
+Cell proliferation
+Cell viability
+Cell-cell contact: gap junction integrity
+Cellular functional parameters
+DNA damage: strand breakage","BLT1- Immortalized murine Leydig tumor cell line
+Leydig primary cell cultures (mammalian)
+Leydig primary cell cultures (mammalian)
+MA-10 - Mouse Leydig tumor cell line
+MLTC-1 - Mouse Leydig cell tumor cell line
+TM3 - Immortalised mouse Leydig cell line",ReProTect,,
+Method summary,Limb Buds Cultures - Summary,0,Developmental toxicity,"Animal Origin
+EMBRYO CULTURE","Apoptosis
+Cell differentiation
+Embryo growth
+Embryonic tissue malformation
+Gene expression profiling (omics techniques)
+Gene expression profiling (omics techniques)","Embryonic limb bud cultures (mouse, rat, chick)",,,
+Method summary,Living Dermal Equivalent (LDE) - Summary,0,Eye Irritation,"Human Origin
+Lattice Culture of Skin Fibroblasts",Cell viability,"MATREXTM
+Reconstituted dermal model
+TESTSKINTM",,,
+Method summary,Long-Term Corneal Organ Culture Assay - Summary,0,Eye Irritation,"Animal Origin
+Eye & Eye Parts",Corneal epithelium integrity,"Cornea (bovine)
+Cornea (porcine)",,,
+Method summary,Low Volume Eye Test (LVET) - Summary,0,Eye Irritation,Refinement,"Conjunctival irritation
+Corneal opacity
+Iris lesion",Eye (rabbit),,,
+Method summary,Luminescent Bacteria Toxicity (LBT) Test (MicrotoxTM) - Summary,0,Eye Irritation,Microorganisms,Reduction of light emission,"Luminescent bacteria
+Microtox<sup>TM</sup>",,,
+Method summary,Mathematical Models - Summary,0,Percutaneous Absorption,Mathematical Models (in silico),"Dose absorbed
+Flux (across skin models)
+Permeability coefficient
+Systemic availability",,,,
+Method summary,Measurement of pH and Acidic or Alkaline Reserve - Summary,0,Eye Irritation,PHYSICO-CHEMICAL ASSAYS,"Acidic/alkaline reserve (test substance)
+pH (test substance)",Test Substance in Solution,,,
+Method summary,Measurement of trans-epithelial resistance (TER) and trans-epithelial potential (TEP) - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines","Cell viability
+Cell-cell contact: tight junction integrity",A6 - Xenopus laevis kidney epithelial cell line,,,
+Method summary,Microdialysis - Summary,0,Percutaneous Absorption,"PHYSICO-CHEMICAL ASSAYS
+Viable Skin Explants",Flux (across skin models),"Reconstituted dermal model
+Skin tissues (animal or human origin)",,,
+Method summary,Monolayer culture of genetically engineered liver cell lines - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines
+Genetically Engineered Cells
+Human Origin","Apoptosis
+Cell function: membrane damage
+Cell function: mitochondrial membrane potential
+Cell morphology
+Cell proliferation
+Cell viability
+Cell-cell contact: gap junction integrity
+Cellular functional parameters
+DNA damage: strand breakage
+Enzyme activity
+Gene expression: Cytochrome P450 isoenzymes (CYP450)
+Generation of Reactive Oxygen Species (ROS)
+Lipid peroxidation
+Metabolic competence
+Metabolic effects",Genetically engineered cell lines,,,
+Method summary,Monolayer culture of liver cell lines - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines
+Human Origin","Apoptosis
+Calcium homeostasis perturbation
+Cell adhesion
+Cell cycle analysis
+Cell function: membrane damage
+Cell function: mitochondrial activity
+Cell function: mitochondrial membrane potential
+Cell function: peroxisome proliferation
+Cell morphology
+Cell proliferation
+Cell viability
+Cell-cell contact: gap junction integrity
+Cellular functional parameters
+Chromosomal damage: micronuclei formation
+DNA damage: sister chromatid exchange (SCE)
+DNA damage: strand breakage
+Enzyme inhibition: <span id=""id_met=327-outerCt"">HMG-CoA reductase</span>
+Gene expression profiling (omics techniques)
+Gene expression: Aryl hydrocarbon receptor (AhR)
+Gene expression: Biomarkers
+Gene expression: Cytochrome P450 isoenzymes (CYP450)
+Gene expression: Glutathion (GSH)
+Gene expression: Heat shock proteins
+Gene expression: Metallothionein II
+Gene mutation
+Generation of Reactive Oxygen Species (ROS)
+Ion channel function, sodium
+Lipid peroxidation
+Metabolic competence
+Metabolic effects","2sFou - Rat hepatoma cell line
+32IIIA clone 6/2d - Rat hepatoma cell line
+5L - Rat hepatoma cell line
+AH-13 - Rat ascites hepatoma cell line
+AH-130 - Rat ascites hepatoma cell line
+AH-44 - Rat ascites hepatoma cell line
+AH66F - Rat ascites hepatoma cells
+AML-12 - Mouse normal liver cell line
+BEL-7402 - Human hepatocellular carcinoma cell line
+BEL-7404 - Human hepatocellular carcinoma cell line
+BP<sup>r</sup>cI - Mouse hepatoma cell line
+BRL-3A - Rat liver cells
+C-HC-20 - Human hepatoma cell line
+C-HC-4 - Human hepatoma cell line
+C2.1.2 - Immortalised rat liver cells
+C2.8 - Mouse embryo hepatocytic cells
+C2Rev7 - Rat hepatoma cell line
+C4 - Ah receptor nuclear translocation-defective mutant mouse hepatoma cells
+C6 - Mouse embryo hepatocytic cells
+CCL 144 - Rat hepatoma cell line
+Cell lines derived from fish liver tumors
+Cell lines derived from human liver tumors
+Cell lines derived from mouse liver tumors
+Cell lines derived from normal fish liver
+Cell lines derived from normal hamster liver
+Cell lines derived from normal human liver
+Cell lines derived from normal mouse liver
+Cell lines derived from normal rat liver
+Cell lines derived from rat liver tumors
+Cell lines derived from transgenic mice
+CHEL - Chinese hamster epithelial liver cell line
+Clone 128 - Mice hepatocytes from newborn 14CoS/14CoS
+Clone 20B - Mouse hepatocytes from newborn ch/ch wild-type
+Clone 9 - Rat liver cells
+CRL-2301 - Rainbow trout liver cell line
+Fa2N-4 - Primary human hepatocyte-derived cell line
+Fa32 - Rat hepatoma cell line
+FaO - Rat hepatoma cell line
+FGC-4 - Rat hepatoma cell ine
+FLC-5 - Human hepatocellular carcinoma cell line
+H-4-II-E - Rat hepatoma cell line
+H4-IIE-C3 - Rat hepatoma cell line
+H4IIEC3/G<sup>-</sup> - Rat hepatoma cell line
+H5 - Rat hepatoma cell line
+HAK-1A - Human hepatocellular carcinoma cell line
+HAK-1B - Human hepatocellular carcinoma cell line
+HBG BC2 - Human hepatoma cell line
+HC-04 - Human immortalized hepatocyte cell line
+Hep3B - Human hepatoma cell line
+Hepa 1-6 - Mouse hepatoma cell line
+Hepa 1c1c7 - Mouse hepatoma cell line
+HepaRG - Human hepatoma cell line
+HepG<sub>2</sub> - Human hepatoma cell line
+HepG2/C3A - Clonal derivative of HepG2 human hepatoma cells
+HepG2DR - Drug resistant subclone of human hepatoma HepG2 cells
+HH<sub>1</sub> - Human hepatoma cell line
+HHY41- Human hepatocyte line
+HLE - Human hepatoma cell line
+HLF - Human hepatoma cell line
+HTC - Rat hepatoma cell line
+Huh-7 - Human hepatocarcinoma cell line
+Human Chang liver epithelial cells
+IAR 20 - Rat liver epithelial cells
+L-02 - Human hepatic cells
+LF - Rat hepatoma cell line
+LQC3 - Immortalised rat liver cell ine
+LQC6 - Rat liver cells
+MH-22a - Mouse hepatoma cell line
+MH<sub>1</sub>C<sub>1</sub> - Rat hepatoma cell line
+MMH-GH - Mouse immortalized untransformed transgenic hepatocytes
+Mz-Hep-1 - Human hepatoma cell line
+N1S1 - Novikoff rat hepatoma cell line
+NCTC clone 1469 - Mouse liver cells
+P9 - Rat liver cells
+PLHC-1 - topminnow hepatoma cell line
+Reuber H-35 - Rat hepatoma cell line
+Reuber H35, subclone KRC-7 - Rat hepatoma cell line
+RL-4 - rat liver epithelial cell line
+RTH-149 - Rainbow trout hepatoma cell line
+RTH1B - Rainbow trout liver tumor cells
+RTL-W1 - Rainbow trout liver epithelial cells
+SK-HEP-1 - Human hepatoma cell line
+SMMC-7721 - Human hepatocellular carcinoma cell line
+SNU-475 - Human hepatocellular carcinoma cell line
+TAMH - Mice transgenic hepatocytes overexpressing human TGF-alpha
+TAOclBP<sup>r</sup>cI - Mouse hepatoma cell line
+WRL-68 - Human foetal liver cell line
+ZF-L - Zebarafish liver cell line",,,
+Method summary,Monolayer culture of primary hepatocytes - Summary,23,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin
+Primary Cell Culture","Apoptosis
+Calcium homeostasis perturbation
+Cell adhesion
+Cell communication
+Cell function
+Cell function: membrane damage
+Cell function: mitochondrial activity
+Cell function: peroxisome proliferation
+Cell hypertrophy
+Cell morphology
+Cell proliferation
+Cell viability
+Cellular functional parameters
+Chromosomal damage: micronuclei formation
+DNA damage: cross-links
+DNA damage: sister chromatid exchange (SCE)
+DNA damage: strand breakage
+DNA damage: unscheduled synthesis
+Enzyme induction: <span id=""id_met=323-outerCt"">cytochrome P450 family</span>
+Gene expression: Biomarkers
+Gene expression: Estrogen receptor-mediated vitellogenin induction
+Gene expression: Heat shock proteins
+Gene expression: Metallothionein II
+Gene expression: Multidrug resistance protein (MDR)
+Gene expression: Pro-inflammatory cytokines (e.g. TNF-alpha, IFN-gamma, IL-6 and IL-12)
+Generation of Reactive Oxygen Species (ROS)
+Ion transport, active
+Lipid peroxidation
+Metabolic competence
+Metabolic effects
+Steatosis","Primary hepatocytes (avian)
+Primary hepatocytes (fish)
+Primary hepatocytes (mammals)",,,
+Method summary,Morphometric and biochemical assays of neurite outgrowth in neuronal cells as in vitro model for axonopathies - Summary,0,Neurotoxicity,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture","Axonal transport
+Neurite outgrowth
+Neuronal axonal cytoskeleton","Cell line cultures
+Explant cultures
+Neurons in culture",,,
+Method summary,Mouse embryonic tooth explants culture - Summary,0,Developmental toxicity,"Animal Origin
+EMBRYO CULTURE
+Primary Cell Culture","Apoptosis
+Cell morphology
+Cell viability
+Gene expression profiling (omics techniques)
+Gene expression profiling (omics techniques)",Embryonic tooth explants cultures,,,
+Method summary,MTT Assay - Summary,17,Eye Irritation,"Animal Origin
+Cell Lines
+Corneal Models
+Human Origin
+Primary Cell Culture
+Reconstituted Dermal Models","Cell function: mitochondrial activity
+Cell viability
+Vital dye reduction: MTT to formazan","3T3 - Mouse fibroblasts
+Corneal epithelial cells (rabbit)
+D3 - Mouse embryonic stem cells
+EpiOcular<sup><span class=""text_small"">TM</span></sup>
+HeLa - Human cervix carcinoma cell line
+Primary hepatocytes (mammals)
+Reconstituted corneal model
+Reconstituted dermal model
+SIRC - Rabbit cornea epithelial cell line",,,
+Method summary,Native-State Sponge-Gel Histoculture Assay - Summary,0,Eye Irritation,"Animal Origin
+Eye & Eye Parts
+Human Origin",Cell viability,"Conjunctiva (human)
+Conjunctiva (mouse)",,,
+Method summary,Neuronal esterases assays as an in vitro screening test for organophosphorus compounds - Summary,0,Neurotoxicity,"Animal Origin
+Brain Reaggregates
+Cell Lines
+Human Origin","Enzyme activity: AcetylCholinEsterase (AChE)
+Enzyme activity: Neuropathy Target Esterase (NTE)","Brain cultures (avian)
+Brain reaggregate culture (avian)
+Neuronal cell lines (human, rat and mice)",,,
+Method summary,Neutral Red Release (NRR) Assay - Summary,54,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin","Cell viability
+Vital dye release: Neutral Red (NRR)","3T3 - Mouse fibroblasts
+3T3 L1 - Mouse embryo fibroblast cell line
+NHEK - Normal human epidermal keratinocytes
+SIRC - Rabbit cornea epithelial cell line",,https://tsar.jrc.ec.europa.eu/test-method/tm2004-03,
+Method summary,Neutral Red Uptake (NRU) - Summary,3,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin","Cell viability
+Vital dye uptake: Neutral Red (NRU)","3T3 - Mouse fibroblasts
+HeLa - Human cervix carcinoma cell line
+HepG<sub>2</sub> - Human hepatoma cell line
+L-929 - Mouse subcutaneous connective tissue cell line
+SIRC - Rabbit cornea epithelial cell line
+V79 - Chinese hamster fibroblast cell line",,,
+Method summary,Oocyte In Vitro Maturation Assay - Summary,129,Effects on the female fertility,"Animal Origin
+Human Origin
+Primary Cell Culture","Cell development
+Cell viability",Oocyte culture,ReProTect,https://tsar.jrc.ec.europa.eu/test-method/tm2010-05,
+Method summary,Ovarian Culture - Summary,0,Effects on the female fertility,"Animal Origin
+Human Origin","Apoptosis
+DNA damage: strand breakage
+Folliculogenesis
+Gene expression: Microsomal epoxide hydrolase (mEH)
+Hormone secretion","Isolated ovaries
+Ovarian tissue",,,
+Method summary,Parallel Artificial Membrane Permeability Assay (PAMPA) logPm predictor,176,Systemic Toxicity,"(Q)SARs
+Mathematical Models (in silico)",Artificial membrane permeability,<em>In silico</em>,SEURAT-1,,
+EU project,"EU Integrated Project - ReProTect - Development of a Novel Approach in Hazard and Risk Assessment for Reproductive Toxicity by a Combination and Application of  In Vitro, Tissue and Sensor Technologies.",0,Developmental toxicity,,,,ReProTect,,
+EU project,EU Integrated Project - ACuteTox - An  In Vitro Test Strategy for Predicting Human Acute Toxicity,0,Systemic Toxicity,,,,ACuteTox,,
+EU project,Research Initiative - SEURAT-1 - Towards the Replacement of In Vivo Repeated Dose Systemic Toxicity Testing,0,Systemic Toxicity,,,,SEURAT-1,,
+EU project,EU-ToxRisk “ An Integrated European Flagship™ Programme Driving Mechanism-based Toxicity Testing and Risk Assessment for the 21st century,0,Systemic Toxicity,,,,EuToxRisk,,
+Method summary,Perfused Skin Preparations - Summary,70,Percutaneous Absorption,"Animal Origin
+Perfused Skin
+Viable Skin Explants","Flux (across skin models)
+Permeability coefficient
+Relative absorption",Skin explants (viable),,,
+Protocol,Bovine Isolated Cornea Test,1,Eye Irritation,"Animal Origin
+Corneal Models
+Eye & Eye Parts","Corneal opacity
+Corneal thickness",Cornea (bovine),,,
+Method summary,Perfused three-dimensional culture systems ( bioreactors) with liver cells - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines
+Co-cultures
+Genetically Engineered Cells
+Hepatocytes Reaggregates
+Human Origin
+Primary Cell Culture
+Stem Cells","Gene expression: Cytochrome P450 isoenzymes (CYP450)
+Metabolic competence",Perfused three-dimensional culture systems,,,
+Protocol,Rabbit Isolated Terminal Ileum,2,Eye Irritation,"Animal Origin
+ORGAN & ORGAN PARTS",Ileum contractions,Ileum (rabbit),,,
+Method summary,Perfused two-dimensional culture systems ( bioreactors) with liver cells - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines
+Co-cultures
+Genetically Engineered Cells
+Human Origin
+Primary Cell Culture
+Stem Cells","Cell viability
+Cellular functional parameters
+Gene expression: Biomarkers
+Gene expression: Cytochrome P450 isoenzymes (CYP450)
+Gene expression: Uridine glucuronosyltransferase (UGT or UDPGT)
+Metabolic competence
+Metabolic effects",Perfused two-dimensional culture systems,,,
+Protocol,The FRAME Modified Neutral Red Uptake Cytotoxicity Test,3,Basal Cytotoxicity,"Animal Origin
+Cell Lines","Cell viability
+Vital dye uptake: Neutral Red (NRU)",3T3 L1 - Mouse embryo fibroblast cell line,,,
+Protocol,Model Cavity Method,4,Biocompatibility & Safety of Medical Devices,"Animal Origin
+Cell Lines","Cell number
+Cell viability","BHK-21/C13 - Syrian hamster kidney epithelial cells
+Macrophages (mouse)",,,
+Protocol,Isolated Rat Glomeruli and Proximal Tubules,5,Nephrotoxicity,"Animal Origin
+Primary Cell Culture","Cell viability
+Metabolic effects
+Metabolic effects
+Protein synthesis","Glomerulus (rat)
+Proximal tubular cells (rat)",,,
+Protocol,Human Lymphocyte Cytotoxicity Assay,6,Basal Cytotoxicity,"Human Origin
+Primary Cell Culture","Cell function: membrane damage
+Cell viability
+Enzyme leakage: Lactate DeHydrogenase (LDH)
+Vital dye reduction: MTT to formazan",Lymphocytes (human),,,
+Method summary,Permanent Embryonic Germ Cell Line Assay - Summary,0,Genotoxicity/Mutagenicity,"Animal Origin
+Cell Lines","Cell viability
+DNA damage: sister chromatid exchange (SCE)","BALB/c 3T3 - Mouse fibroblast cell line
+Embryonic germ cell line (mice)",,,
+Protocol,The Isolation and Culture of Rat Hepatic Cells,7,Primary cell culture method,"Animal Origin
+Primary Cell Culture",,Hepatocytes (rat),,,
+Protocol,Allium Test,8,Aquatic Short-Term Toxicity,Plants,"Chromosomal damage: structural aberrations
+Root growth",Roots of common onion (<em>Allium Cepa</em>)<em> </em>,,,
+Protocol,The Use of Membrane Permeability as a Measure of Cytotoxicity in Perfused Cell Cultures,9,Basal Cytotoxicity,"Animal Origin
+Cell Lines
+Human Origin",Cell function: membrane damage,"138MG - Human glioma cell line
+BRL123 - Rat liver cells
+C1300-41A<sub>3</sub> - Mouse neuroblastoma cell line
+C1300-N1E115 - Mouse neuroblastoma cell line
+L6 - Rat skeletal muscle cell line",,,
+Protocol,Reactive Metabolite Formation by Fortified Liver Microsomes,10,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+SUBCELLULAR FRACTION",Glutathione depletion,"Liver microsomes (Guinea-pig)
+Liver microsomes (hamster)
+Liver microsomes (mouse)
+Liver microsomes (rat)",,,
+Method summary,Permeability Test using Proptosed Mouse Eyes - Summary,0,Eye Irritation,"Animal Origin
+Eye & Eye Parts",Corneal permeability,Eye (mouse),,,
+Protocol,Whole Rat Brain Reaggregate Spheroid Culture,11,Neurotoxicity,"Animal Origin
+Brain Reaggregates
+Cell Lines
+Primary Cell Culture","Cell differentiation
+Enzyme activity: AcetylCholinEsterase (AChE)
+Enzyme activity: Choline AcetylTransferase (ChAT)
+Enzyme activity: Glutamate decarboxylase (GAD)
+Mediator release: neurotransmitters
+Receptor binding: Muscarinic receptor (mAChR)",Brain reaggregate culture (rat),,,
+Method summary,Physiologically-Based Kinetic models,161,Systemic Toxicity,Mathematical Models (in silico),"Bioavailability
+Dose-response
+Physiologically based (<em>pharmaco</em>)kinetic model (PBK)
+Time-reponse",,SEURAT-1,,
+Protocol,Polymorphonuclear Leucocytes Locomotion,12,Immunotoxicity,"Human Origin
+Primary Cell Culture","Cell migration
+Chemotaxis
+Locomotion inhibition",Leukocytes (polymorphonuclear),,,
+Protocol,Hepatoma Cell Cultures as in vitro Models for Hepatotoxicity,13,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines
+Human Origin","Cell number
+Cell viability
+Colony formation",Hepatoma cell lines (mammalian),,,
+Protocol,HEL-30 Cytotoxicity Test,14,Basal Cytotoxicity,"Animal Origin
+Cell Lines",Protein synthesis,HEL-30 - Mouse epidermal keratinocyte cell line,,,
+Protocol,The FRAME Cytotoxicity Test (KENACID BLUE),15,Basal Cytotoxicity,"Animal Origin
+Cell Lines","Cell number
+Cell viability
+Protein content: total",3T3 L1 - Mouse embryo fibroblast cell line,,,
+Protocol,Cytotoxicity and Genotoxicity in Primary Cultures of Human Hepatocytes,16,Genotoxicity/Mutagenicity,"Human Origin
+Primary Cell Culture","Cell viability
+DNA damage
+DNA damage: unscheduled synthesis
+Incorporation of radiolabels
+Vital dye uptake: Neutral Red (NRU)",Hepatocytes (human),,,
+Method summary,Placenta Cells and Explants Cultures - Summary,0,Developmental toxicity,"Cell Lines
+Human Origin","Apoptosis
+Cell differentiation
+Cell migration
+Cell viability
+Cellular functional parameters
+Gene expression profiling (omics techniques)
+Generation of Reactive Oxygen Species (ROS)","BeWo - Human choriocarcinoma cell line
+Cell line cultures
+Human primary cytotrophoblasts
+JEG-3 - Transformed human choriocarcinoma cell line
+Placenta explants
+Rcho-1 - Rat trophoblast stem cell line
+SV40-transformed human trophoblast cell lines",ReProTect,,
+Protocol,MTT Assay,17,Basal Cytotoxicity,"Animal Origin
+Cell Lines
+Human Origin","Cell viability
+Vital dye reduction: MTT to formazan",Cell line cultures,,,
+Protocol,Unscheduled DNA Synthesis in Hepatocyte Cultures Assessed by the Nuclei Procedure,18,Genotoxicity/Mutagenicity,"Animal Origin
+Primary Cell Culture","DNA damage
+DNA damage: unscheduled synthesis
+DNA repair
+Incorporation of radiolabels",Hepatocytes (rat),,,
+Protocol,Alkaline Unwinding Genotoxicity Test,19,Cell transformation,"Animal Origin
+Cell Lines","Cell viability
+DNA damage: strand breakage
+DNA damage: strand breakage",L5178Y - Mouse lymphoma cell line,,,
+Protocol,Isolation of Rat Hepatocytes,20,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Primary Cell Culture","Cell viability
+Enzyme leakage: Lactate DeHydrogenase (LDH)",Hepatocytes (rat),,,
+Method summary,Placental Perfusion Systems and Related Test Systems - Summary,0,Developmental toxicity,"Animal Origin
+Cell Lines
+Human Origin","Cellular functional parameters
+DNA damage: adduct formation
+Enzyme activity: Cytochrome P450 oxidoreductase (CYP)
+Gene expression profiling (omics techniques)
+Hormone secretion
+Metabolic activity
+Morphological effects
+Tissue accumulation
+Transplacental transfer rate
+Vascular effects","BeWo - Human choriocarcinoma cell line
+Placenta perfused (human)",,,
+Protocol,Bovine Spermatozoa Cytotoxicity Test,21,Effects on the male fertility,Animal Origin,"Cell viability
+Metabolic effects
+Sperm motility",Spermatozoa (bovine),,,
+Method summary,Pollen Tube Growth (PTG) Assay - Summary,55,Eye Irritation,"Plants
+Primary Cell Culture",Pollen tube growth,Pollen (tobacco),,,
+Protocol,Tetrahymena Thermophila Ocular Irritancy Test,22,Eye Irritation,Microorganisms,Protozoa motility,Protozoa (Tetrahymena thermophila),,,
+Method summary,Porcine Corneal Opacity Permeability (PCOP) Assay - Summary,0,Eye Irritation,"Animal Origin
+Corneal Models
+Eye & Eye Parts","Corneal histology
+Corneal hydration
+Corneal opacity
+Corneal permeability
+Corneal thickness",Cornea (porcine),,,
+Protocol,Rat Hepatocyte Flow Cytometric Cytotoxicity Test,23,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Primary Cell Culture","Apoptosis
+Cell proliferation
+Chromosomal number: polyploidy
+Protein content: total",Primary hepatocytes (mammals),,,
+Protocol,Cytoskeletal Alterations as a Parameter for Assessment of Toxicity,24,Basal Cytotoxicity,"Animal Origin
+Cell Lines
+SUBCELLULAR FRACTION",Cell function: cytoskeleton,CHO - Chinese hamster ovary cell line,,,
+Protocol,Laser Diffraction Measurement of Tumour Spheroids,25,Basal Cytotoxicity,"Cell Lines
+Human Origin
+Tumour Cells Reaggregates","Cell morphology
+Cell viability","354 - Human lung tumor cell line
+406 - Human lung tumor cell line
+612 - Human cervix tumor cell line
+754 - Human cervix tumor cell line
+HCCO - Human colorectal caner cell line
+HT29 - Human colorectal cancer cell line",,,
+Protocol,The Zein Test,26,Skin Irritation and Corrosivity,"BIO-CHEMICALS & POLYMERS
+PHYSICO-CHEMICAL ASSAYS",Zein solubility,Zein (corn protein),,,
+Protocol,Human Skin Fibroblast/Collagen Lattice Cytotoxicity Test,27,Skin Irritation and Corrosivity,"Cell Lines
+Human Origin
+Lattice Culture of Skin Fibroblasts","Cell viability
+Collagen lattice contraction",Fibroblasts (human),,,
+Protocol,Human Oesophageal Culture,28,Digestive System Toxicity,"Human Origin
+Primary Cell Culture",Cell viability,Oesophageal mucosa (human),,,
+Protocol,Human Thyroid Culture,29,Effects on Endocrine System,"Human Origin
+Primary Cell Culture","Cell morphology
+Cell proliferation
+Iodine trapping ability
+Mediator release: thyroxine (T<sub>4</sub>)",Thyroid Cells (human),,,
+Method summary,Post-implantation Whole Embryo Cultures (WEC) - Summary,68,Developmental toxicity,EMBRYO CULTURE,"Apoptosis
+Cell cycle analysis
+Cell viability
+Cellular functional parameters
+Embryo development
+Embryo growth
+Embryo viability
+Gene expression profiling (omics techniques)
+Gene expression: Biomarkers
+Gene mutation
+Generation of Reactive Oxygen Species (ROS)
+Heart functional parameters","Post-implantation whole embryo culture (rat, mouse, hamster, rabbit)",,,
+Protocol,The Ames Test (with S. typhimurium),30,Genotoxicity/Mutagenicity,Microorganisms,"DNA damage
+Gene mutation
+Gene mutation: frame-shift
+Gene mutation: reverse mutation
+Gene mutation: substitution",Salmonella typhimurium,,,
+Method summary,PPARγ full agonists’ pharmacophore-based predictor,168,Systemic Toxicity,Mathematical Models (in silico),"Receptor binding: Peroxisome proliferator-activated receptor gamma 1 (PPAR&#947;1)
+Receptor binding: Peroxisome proliferator-activated receptor gamma 2 (PPAR&#947;2)",<em>In silico</em>,SEURAT-1,,
+Protocol,Agarose Overlay Assay,31,Eye Irritation,"Animal Origin
+Cell Lines","Cell viability
+Vital dye reduction: MTT to formazan
+Vital dye release: Neutral Red (NRR)",L-929 - Mouse subcutaneous connective tissue cell line,,,
+Protocol,Dust Toxicity in Rat Alveolar Macrophage Cultures,32,Respiratory Tract Toxicity,"Animal Origin
+Primary Cell Culture","Cell function: membrane damage
+Cell viability
+Enzyme leakage: Lactate DeHydrogenase (LDH)",Macrophages (rat),,,
+Protocol,Yeast Growth Rate Cytotoxicity Test,33,Basal Cytotoxicity,Microorganisms,Cell proliferation,Saccharomyces Cerevisiae,,,
+Protocol,Yeast Plasma Membrane H+-ATPase Toxicity Test,34,Basal Cytotoxicity,"Microorganisms
+SUBCELLULAR FRACTION","Cell function: membrane damage
+Cell viability
+Enzyme activity",Saccharomyces Cerevisiae,,,
+Protocol,Chinese Hamster Ovary Cell NA+/K+-ATPase Test,35,Basal Cytotoxicity,"Animal Origin
+Primary Cell Culture
+SUBCELLULAR FRACTION","Cell function: membrane damage
+Enzyme activity",CHO - Chinese hamster ovary cell line,,,
+Protocol,Chinese Hamster Ovary (CHO) Cell Proliferation Test,36,Basal Cytotoxicity,"Animal Origin
+Cell Lines",Cell proliferation,CHO - Chinese hamster ovary cell line,,,
+Method summary,PPARγ full agonists’ potency predictor,175,Systemic Toxicity,(Q)SARs,Receptor activity: Peroxisome proliferator-activated receptor gamma (PPAR<em>&#947;)</em>,<em>In silico</em>,SEURAT-1,,
+Protocol,Red Blood Cell (RBC) Test System,37,Eye Irritation,"Animal Origin
+Primary Cell Culture","Haemolysis
+Protein denaturation",Erythrocytes (mammalian),,https://tsar.jrc.ec.europa.eu/test-method/tm2004-04,
+Method summary,Pre-implantation embryo cultures - Summary,0,Developmental toxicity,"Animal Origin
+EMBRYO CULTURE","Apoptosis
+Cell adhesion
+Cell function: cytoskeleton
+Cell number
+Cell proliferation
+Cellular functional parameters
+Chromosomal damage: micronuclei formation
+Chromosomal damage: micronuclei formation
+DNA damage: sister chromatid exchange (SCE)
+DNA damage: strand breakage
+DNA damage: strand breakage
+Embryo development
+Embryo morphology
+Gene expression profiling (omics techniques)
+Gene expression: Biomarkers
+Generation of Reactive Oxygen Species (ROS)
+Protein synthesis",Pre-implantation whole embryo culture,ReProTect,,
+Protocol,LS-L929 Cytotoxicity Test,38,Basal Cytotoxicity,"Animal Origin
+Cell Lines","Cell viability
+Ethidium bromide uptake
+Vital dye uptake: Fluorescein diacetate (FDA)",L-929 - Mouse subcutaneous connective tissue cell line,,,
+Protocol,V79 Cytotoxicity Test for Membrane Damage,39,Basal Cytotoxicity,"Animal Origin
+Cell Lines","Cell function: membrane damage
+Nucleic acid leakage",V79 - Chinese hamster fibroblast cell line,,,
+Protocol,SIRC Cytotoxicity Test,40,Eye Irritation,"Animal Origin
+Cell Lines","Cell viability
+Vital dye uptake: Neutral Red (NRU)",SIRC - Rabbit cornea epithelial cell line,,,
+Protocol,Rabbit articular chondrocyte functional toxicity test,41,Developmental toxicity,Animal Origin,Cellular functional parameters,Primary culture of articular chondrocytes (rabbit),,,
+Method summary,Preparation of precision-cut liver slices - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin
+Liver slices",,"Hand-cut liver slices
+Precision-cut liver slices",,,
+Protocol,Liver Slice Hepatotoxicity Screening System,42,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Liver slices","Enzyme leakage: ALanine aminoTransferase (ALT)
+Enzyme leakage: Lactate DeHydrogenase (LDH)","Hand-cut liver slices
+Liver slices (mouse)
+Liver slices (rat)",,,
+Protocol,Colorimetric Cytotoxicity Assays for Anchorage Dependent Cells,43,Drug Discovery and Activity Testing,"Animal Origin
+Cell Lines","Cell viability
+Vital dye reduction: MTT to formazan
+Vital dye uptake: Methylene blue","HT-1080 - Human fibrosarcoma cell line
+LoVo - Human colorectal adenocarcinoma cell line
+V79 - Chinese hamster fibroblast cell line",,,
+Protocol,Cell Culture Phototoxicity Test,44,Phototoxicity,"Animal Origin
+Cell Lines
+Human Origin","Cell viability
+Vital dye reduction: MTT to formazan","3T3 - Mouse fibroblasts
+A431 - Human epidermal cell line",,,
+Protocol,"The Dunaliella tertiolecta Test, a Marine Algal Assay Procedure",45,Aquatic Short-Term Toxicity,Microorganisms,Alga growth,Green algae (<em>Dunaliella tertiolecta)<br /></em>,,,
+Protocol,BALB/c 3T3 Neutral Red Uptake (NRU) Cytotoxicity Test,46,Eye Irritation,"Animal Origin
+Cell Lines","Cell viability
+Protein content: total
+Vital dye uptake: Neutral Red (NRU)",BALB/c 3T3 - Mouse fibroblast cell line,,,
+Protocol,HET-CAM Test,47,Eye Irritation,"Animal Origin
+IN OVO METHODS","Blood coagulation: intravascular and extravasular
+Blood vessel lysis
+Haemorrhage",Chorioallantoic Membrane (CAM) (chicken egg),,,
+Protocol,Lung Cell Assay,48,Developmental toxicity,"Animal Origin
+Cell Lines
+Human Origin","DNA synthesis
+Incorporation of radiolabels
+Protein synthesis","HFL1 - Human fatal lung fibroblasts cell line
+L2 - Rat lung ephitelial cell line",,,
+Protocol,H-4-II-E Rat Hepatoma Cell Bioassay,49,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines","Enzyme activity: Aryl Hydrocarbon Hydroxylase (AHH)
+Enzyme activity: EthoxyResorufin O-Deethylase (EROD)
+Enzyme activity: EthoxyResorufin O-Deethylase (EROD)",H-4-II-E - Rat hepatoma cell line,,,
+Protocol,HEp-2 Cytotoxicity Test For Implant Materials,50,Biocompatibility & Safety of Medical Devices,"Animal Origin
+Cell Lines","Cell morphology
+Cell number
+Cell proliferation","HEp2 - Human larynx epidermoid carcinoma cell line
+HEp2 - Human larynx epidermoid carcinoma cell line",,,
+Protocol,LLC-RK1 Cell Screening Test for Nephrotoxicity,51,Nephrotoxicity,"Animal Origin
+Cell Lines","Cell viability
+Vital dye uptake: Neutral Red (NRU)",LLC-RK1 - Rabbit kidney cell line,,,
+Protocol,Quantitative Video Microscopy of Intracellular Motion and Mitochondria-Specific Flourescence,52,Basal Cytotoxicity,"Animal Origin
+Cell Lines
+Human Origin","Cell function: organelle dynamics
+Cell morphology
+Cell number
+Cell viability","IMR-90 - Human fibroblast cell line
+L-929 - Mouse subcutaneous connective tissue cell line",,,
+Method summary,Preservation of liver slices - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin
+Liver slices",,"Hand-cut liver slices
+Precision-cut liver slices",,,
+Protocol,Automated In Vitro Dermal Absorption (AIDA) Procedure,53,Percutaneous Absorption,"Animal Origin
+Human Origin
+Non viable isolated tissues (epidermal membranes & full thickness skin)","Dermal absorption
+Incorporation of radiolabels",Skin (human),,,
+Method summary,"Protein Determination Assays (Lowry, Kenacid Blue, Coomassie Blue) - Summary",0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Protein content: total,"3T3 - Mouse fibroblasts
+L-929 - Mouse subcutaneous connective tissue cell line
+SIRC - Rabbit cornea epithelial cell line",,,
+Protocol,Frame Neutral Red Release Assay,54,Eye Irritation,"Animal Origin
+Cell Lines","Cell viability
+Vital dye release: Neutral Red (NRR)",3T3 L1 - Mouse embryo fibroblast cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2004-03,
+Method summary,QSAR model for the prediction of LXR binding potential.,169,Systemic Toxicity,"(Q)SARs
+Mathematical Models (in silico)",Receptor binding: Liver X receptor (LXR),<em>In silico</em>,SEURAT-1,,
+Protocol,Pollen Tube Growth Test (PTG-Test),55,Eye Irritation,"Plants
+Primary Cell Culture",Pollen tube growth,Pollen (tobacco),,,
+Method summary,Quantitative Structure-Activity Relationships (QSAR) to predict reproductive toxicity - Summary,0,Effects on the female fertility,(Q)SARs,,<em>In silico</em>,,,
+Protocol,Hen's Egg Test -Yolk-Sac Blood Vessel Assay,56,Eye Irritation,"Animal Origin
+IN OVO METHODS","Haemorrhage
+Hyperaemia",Yolk sac blood vessel system (chick embryo),,,
+Protocol,Human and Bovine Lens Epithelial Culture,57,Primary cell culture method,"Animal Origin
+Human Origin
+Primary Cell Culture",Cell proliferation,"Corneal epithelial cells (bovine)
+Corneal epithelial cells (human)
+Eye lens (bovine)
+Eye lens (human)",,,
+Protocol,UV Absorption as an Approximation for Cell Number,58,Basal Cytotoxicity,"Cell Lines
+Human Origin","Cell number
+DNA synthesis
+Incorporation of radiolabels",CCD-18Lu - Human lung fibroblast cell line,,,
+Method summary,Quantitative Structure-Activity Relationships (QSARs) for predicting Eye Irritation - Summary,0,Eye Irritation,(Q)SARs,,,,,
+Protocol,In vitro Fertilization Sperm Toxicity Test,59,Effects on the male fertility,"Animal Origin
+Primary Cell Culture","Cell morphology
+Oocyte fertilisation
+Sperm function",Gametes culture,,,
+Method summary,Rabbit Isolated Terminal Ileum Model - Summary,2,Eye Irritation,Animal Origin,Ileum contractions,Ileum (rabbit),,,
+Protocol,Eye Lens Organ Culture,60,Eye Irritation,"Animal Origin
+Eye & Eye Parts","Focal length variability
+Optical transparency",Eye lens (bovine),,,
+Protocol,An In Vitro Model for Studies of Prostaglandin H Synthase (PHS) - Mediated Genotoxicity of Xenobiotics,61,Genotoxicity/Mutagenicity,"Animal Origin
+Cell Lines","Chromosomal damage: micronuclei formation
+Metabolic activity",Seminal Vesicles (ram),,,
+Protocol,Screening System of Promoters Using RAS Transfected BALB 3T3 Clone (Bhas 42),62,Tumour promotion,"Animal Origin
+Cell Lines
+Genetically Engineered Cells",Cell morphology,"BALB/3T3 clone A31 - Mouse fibroblast cell line
+Bhas 42 - Engineered mouse embryo BALB 3T3 cell line",,,
+Protocol,alpha-Methyl Glucose Uptake in Isolated Proximal Tubular Cells,63,Nephrotoxicity,"Animal Origin
+Cell Lines","<em>Alpha-</em>methyl glucose uptake
+Cell viability",Proximal tubular cells (rat),,,
+Method summary,Reconstituted Cornea Models using Immortalized Human Corneal Cells –Summary,0,Eye Irritation,"Cell Lines
+Co-cultures
+Corneal Models
+Human Origin","Cell viability
+Corneal opacity
+Gene expression profiling (omics techniques)",Reconstituted corneal model,,,
+Protocol,Neutral Red Uptake (NRU) Cytotoxicity Assay,64,Eye Irritation,"Animal Origin
+Cell Lines","Cell morphology
+Cell viability
+Protein content: total
+Vital dye uptake: Neutral Red (NRU)","BALB/c 3T3 - Mouse fibroblast cell line
+HepG<sub>2</sub> - Human hepatoma cell line",,,
+Protocol,Lucifer Yellow Intercellular Exchange Assay for Tumour Promotors,65,Tumour promotion,"Animal Origin
+Cell Lines",Cell-cell contact: gap junction integrity,SV-40-transformed Djungarian hamster fibroblasts,,,
+Protocol,In Vitro Prediction of the Maximum Tolerated Dose,66,Systemic Toxicity,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture","Cell function: membrane damage
+Cell morphology
+Cell viability","Hepatocytes (rat)
+McCoy - Human epithelial cells from synovial fluid
+MDBK - Madin-Darby bovine kidney cell line",,,
+Protocol,Serum-Free Liver Mitogen Test,67,Tumour promotion,"Animal Origin
+Primary Cell Culture","Cell proliferation
+DNA synthesis
+Incorporation of radiolabels",Hepatocytes (rat),,,
+Method summary,Reconstructed Rabbit Corneal Epithelium (RCE) Model  - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Corneal Models","Cell viability
+Restoration rate",RCE - Rabbit corneal epithelial cell line,,,
+Protocol,Embryotoxicity testing using a whole embryo culture (WEC) procedure,68,Developmental toxicity,EMBRYO CULTURE,"Cell differentiation
+Cell morphology
+Embryo growth
+Embryo viability",Whole embryo culture (mouse),,,
+Protocol,Primary Human Hepatocyte Cultures from Small Surgical Biopsies,69,Primary cell culture method,"Animal Origin
+Primary Cell Culture","Cell viability
+Protein synthesis",Hepatocytes (human),,,
+Method summary,Reconstructed skin models for percutaneous absorption testing - Summary,0,Percutaneous Absorption,"Animal Origin
+Human Origin
+Viable Skin Explants","Flux (across skin models)
+Relative absorption","EpiDerm<sup>TM</sup>
+EPISKIN&#8482
+Reconstituted dermal model
+RHE SkinEthic<sup>TM</sup>",,,
+Protocol,The Isolated Pig-Ear Skin Permeation Model,70,Percutaneous Absorption,"Animal Origin
+Perfused Skin",Skin permeation,Skin (pig ear),,,
+Method summary,Red Blood Cell (RBC) Test - Summary,37,Eye Irritation,Animal Origin,"Haemolysis
+Protein denaturation",Erythrocytes (mammalian),,https://tsar.jrc.ec.europa.eu/test-method/tm2004-04,
+Protocol,Fluorescein Leakage (FL) Test,71,Eye Irritation,"Animal Origin
+Cell Lines","Cell-cell contact: tight junction integrity
+Fluorescein leakage (FL)",MDCK - Madin-Darby canine kidney cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2004-02,
+Protocol,Rat Whole Embryo Culture (WEC),72,Developmental toxicity,"Animal Origin
+EMBRYO CULTURE","Cell differentiation
+Embryo growth
+Embryo morphology
+Embryo viability",Whole embryo culture (rat),,,
+Protocol,Two-Compartment Human Tissue Cytotoxicity Test,73,Basal Cytotoxicity,"Animal Origin
+Human Origin
+Primary Cell Culture
+SUBCELLULAR FRACTION",Cell viability,"Erythrocytes (human)
+Liver microsomes (human)
+Mononuclear leucocytes (human)",,,
+Protocol,Tetrahymena thermophyla Chemosensory Response,74,Aquatic Short-Term Toxicity,Microorganisms,Chemotaxis,Protozoa (<em>Tetrahymena thermophila</em>),,,
+Protocol,Tetrahymena Proliferation Rate and Maximal Density,75,Aquatic Short-Term Toxicity,Microorganisms,"Cell number
+Cell proliferation",Protozoa (<em>Tetrahymena thermophila</em>),,,
+Protocol,Tetrahymena Assay for Membrane-Stabilising Activity,76,Aquatic Short-Term Toxicity,Microorganisms,"Cell function: membrane damage
+Swimming speed",Protozoa (<em>Tetrahymena pyriformis</em>),,,
+Protocol,The Complement Photoactivation Assay,77,Phototoxicity,Human Origin,Complement system activiation,Blood plasma (human),,,
+Protocol,3T3 Neutral Red Uptake (NRU) Phototoxicity Assay,78,Phototoxicity,"Animal Origin
+Cell Lines","Cell viability
+Vital dye uptake: Neutral Red (NRU)",BALB/c 3T3 - Mouse fibroblast cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm1994-01,
+Protocol,The Frame Modified Phototoxicity Assay Using Human Keratinocyte Monolayer Culture,79,Phototoxicity,"Human Origin
+Primary Cell Culture","Cell viability
+Vital dye uptake: Neutral Red (NRU)",Keratinocytes (human),,,
+Protocol,Chicken Enucleated Eye Test (CEET) / Isolated Chicken Eye (ICE) test,80,Eye Irritation,"Animal Origin
+Eye & Eye Parts","Corneal opacity
+Corneal thickness
+Fluorescein retention",Enucleated eye (chicken),,,
+Protocol,Red Blood Cell (RBC) Photo Assay - Photohaemolysis and Haemoglobin Oxidation,81,Phototoxicity,"Animal Origin
+Human Origin
+Primary Cell Culture","Haemolysis
+Methaemoglobin formation",Erythrocytes (human),,,
+Protocol,Fixed Dose Procedure for the Fluorescein Leakage (FL) Test,82,Eye Irritation,"Animal Origin
+Cell Lines","Cell-cell contact: tight junction integrity
+Cell-cell contact: tight junction integrity
+Fluorescein leakage (FL)",MDCK - Madin-Darby canine kidney cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2004-02,
+Protocol,ATS SKIN2 TM ZK 1350 Phototoxicity Assay,83,Phototoxicity,"Human Origin
+Lattice Culture of Skin Fibroblasts
+Primary Cell Culture","Cell viability
+Vital dye reduction: MTT to formazan",SKIN<sup>2</sup>&#8482; Tissue Model (ZK1350),,,
+Protocol,SOLATEX-PI Phototoxicity Test,84,Phototoxicity,"BIO-CHEMICALS & POLYMERS
+PHYSICO-CHEMICAL ASSAYS","Cell function: membrane damage
+Protein content: total",SOLATEX-PI,,,
+Protocol,Rabbit Enucleated Eye Test (REET),85,Eye Irritation,"Animal Origin
+Eye & Eye Parts","Corneal opacity
+Corneal thickness
+Fluorescein retention",Enucleated eye (rabbit),,,
+Method summary,Release of the cytoplasmic enzyme lactate dehydrogenase (LDH) to the medium applied to neural cells - Summary,0,Neurotoxicity,Primary Cell Culture,"Cell function: membrane damage
+Enzyme leakage: Lactate DeHydrogenase (LDH)","Mouse astrocytes
+Neurons in culture
+Placenta explants",,,
+Protocol,Trans-Epithelial Permeability (TEP) Assay,86,Eye Irritation,"Animal Origin
+Cell Lines",Fluorescein leakage (FL),MDCK - Madin-Darby canine kidney cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2004-02,
+Protocol,Arachidonic Acid Release as a Measure of Membrane Toxicity,87,Skin Irritation and Corrosivity,"Cell Lines
+Human Origin",Cell function: membrane damage,U937 - Human histiocytic lymphoma cell line,,,
+Protocol,DNA Binding in Bacteria,88,Genotoxicity/Mutagenicity,Microorganisms,DNA damage: adduct formation,Salmonella typhimurium,,,
+Protocol,DNA Binding Studies for Alkylating Compounds Using Isolated Perfused Rat Liver,89,Genotoxicity/Mutagenicity,"Animal Origin
+Perfused liver",DNA damage: adduct formation,Isolated perfused rat liver (IPRL),,,
+Protocol,Isolation of Rat Type II Alveolar Epithelial Cells,90,Primary cell culture method,"Animal Origin
+Primary Cell Culture",,"Cell line cultures
+Lung epithelial cells (rat)",,,
+Protocol,alpha-Methyl Glucose Uptake in Primary Cultures of Proximal Tubular Cells,91,Nephrotoxicity,"Animal Origin
+Primary Cell Culture",<em>Alpha-</em>methyl glucose uptake,Proximal tubular cells (rat),,,
+Protocol,Culture of Human Cumulus Granulosa Cells,92,Effects on the female fertility,Primary Cell Culture,Cellular functional parameters,Ovarian granulosa cells culture (human),ReProTect,,
+Method summary,ReProComet Assay (Modified In Vitro Sperm Comet Assay) - Summary,126,Effects on the male fertility,Animal Origin,"DNA damage: strand breakage
+Sperm viability",Spermatozoa,ReProTect,,
+Protocol,Spontaneously Contracting Cultured Rat Skeletal Muscle Cells for Testing Toxic Effects on Excitable Tissues,93,Cardiotoxicity,"Animal Origin
+Primary Cell Culture","Cell function: membrane damage
+Enzyme leakage: Creatine Kinase (CK)
+Metabolic effects
+Spontaneous contractility of myotubes",Skeletal myocytes (rat),,,
+Protocol,Photosensitized Oxidation of Histidine,94,Phototoxicity,"BIO-CHEMICALS & POLYMERS
+PHYSICO-CHEMICAL ASSAYS",Histidine oxidation,Histidine,,,
+Protocol,Photobinding to Protein,95,Photoallergenicity,"BIO-CHEMICALS & POLYMERS
+PHYSICO-CHEMICAL ASSAYS",Protein binding,Serum Albumin (human),,,
+Protocol,Hen's Egg Test on the Chorioallantoic Membrane (HET-CAM),96,Eye Irritation,"Animal Origin
+IN OVO METHODS","Blood coagulation: intravascular and extravasular
+Blood vessel lysis
+Haemorrhage",Chorioallantoic Membrane (CAM) (chicken egg),,,
+Method summary,Resazurin (Alamar BlueTM) Cytotoxicity Assay - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Vital dye reduction: Resazurin (Alamar Blue),"CEPI - Human corneal epithelial cell line
+Corneal endothelial cells (rabbit)
+Corneal epithelial cells (bovine)",,,
+Protocol,Silicon Microphysiometer (SM) Toxicity Test - Microbiological Associates,97,Eye Irritation,"Animal Origin
+Cell Lines",Metabolic activity,"L-929 - Mouse subcutaneous connective tissue cell line
+Potentiometric pH probe biosensor",,,
+Method summary,Saarbruecken Penetration Model (SB-M) - Summary,0,Percutaneous Absorption,"Animal Origin
+Human Origin",Dose absorbed,"Skin (human)
+Skin (pig ear)",,,
+Protocol,Bovine Corneal Opacity and Permeability (BCOP) Assay (Method of Gautheron),98,Eye Irritation,"Animal Origin
+Eye & Eye Parts","Corneal opacity
+Corneal permeability",Cornea (bovine),,,
+Protocol,Red Blood Cell (RBC) Lysis and Protein Denaturation,99,Eye Irritation,Animal Origin,"Haemolysis
+Protein denaturation",Erythrocytes (mammalian),,https://tsar.jrc.ec.europa.eu/test-method/tm2004-04,
+Protocol,Neutral Red Uptake (NRU) Bioassay Using BALB/c 3T3 Cells,100,Eye Irritation,"Animal Origin
+Cell Lines","Cell viability
+Vital dye uptake: Neutral Red (NRU)",BALB/c 3T3 - Mouse fibroblast cell line,,,
+Protocol,Colony Forming Unit-Granulocyte/Macrophage (CFU-GM) Assay,101,Haematotoxicity,"Animal Origin
+Human Origin
+Primary Cell Culture","Cell proliferation
+Colony formation","Bone marrow (murine)
+Cord blood (human)",ACuteTox,https://tsar.jrc.ec.europa.eu/test-method/tm2000-01,
+Protocol,The Silicon Microphysiometer (SM) Toxicity Test - Procter and Gamble,102,Eye Irritation,"Animal Origin
+Cell Lines",Metabolic activity,"L-929 - Mouse subcutaneous connective tissue cell line
+Potentiometric pH probe biosensor",,,
+Protocol,Cutaneous Toxicity Testing  Using Skin Organ Culture,103,Skin Irritation and Corrosivity,"Animal Origin
+Human Origin
+Non viable isolated tissues (epidermal membranes & full thickness skin)","Cell proliferation
+Vital dye reduction: MTT to formazan","Skin (rabbit, pig, human)",,,
+Protocol,The Methylcellulose Cell Culture Test System,104,Biocompatibility & Safety of Medical Devices,"Cell Lines
+Human Origin","Cell morphology
+Cell number",PK84 - Human skin fibroblast cell line,,,
+Protocol,Creatine Kinase Activity in Rat Myocytes as a Model for Assessing Muscle Irritation,105,Myotoxicity,"Animal Origin
+Primary Cell Culture",Enzyme activity: Creatine kinase (CK),Skeletal myocytes (rat),,,
+Protocol,Embryonic Myocardial Myocyte Reaggregation Cultures as a Model for Cardiotoxicity,106,Cardiotoxicity,"Animal Origin
+Myocardial Reaggregates
+Primary Cell Culture","Cell morphology
+Enzyme leakage: Lactate DeHydrogenase (LDH)",Myocardial myocytes (chick embryo),,,
+Protocol,Use of Stable Cell Lines Expressing Cytochromes CYP cDNA in Toxicity Testing,107,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines
+Genetically Engineered Cells","Chromosomal damage: micronuclei formation
+Metabolic competence
+Vital dye uptake: Neutral Red (NRU)",V79 - Chinese hamster fibroblast cell line,,,
+Protocol,CAM-TBS Test,108,Eye Irritation,"Animal Origin
+IN OVO METHODS",Cell viability,Chorioallantoic Membrane (CAM) (chicken egg),,,
+Method summary,Sea Urchin Model - Summary,0,Developmental toxicity,"Animal Origin
+EMBRYO CULTURE","Apoptosis
+Morphological effects",Sea urchin,,,
+Protocol,Haemoglobin Denaturation as a Model for Predicting Irritancy,109,Eye Irritation,"BIO-CHEMICALS & POLYMERS
+PHYSICO-CHEMICAL ASSAYS",Protein denaturation,Haemoglobin (bovine),,,
+Method summary,Seminiferous Tubules Cultures - Summary,0,Effects on the male fertility,"Animal Origin
+Primary Cell Culture","Cell morphology
+Cell number
+Cell viability
+Cellular functional parameters
+Chromosomal damage: micronuclei formation
+DNA damage: strand breakage
+DNA damage: strand breakage",Seminiferous tubules cultures,,,
+Protocol,EYTEXTM Protocol,110,Eye Irritation,"BIO-CHEMICALS & POLYMERS
+PHYSICO-CHEMICAL ASSAYS",Optical density,Protein matrix,,,
+Method summary,Sensory Neuronal Cell Model to Assess Mild Eye Irritants - Summary,0,Eye Irritation,"Cell Lines
+Human Origin","Ion channel function, calcium",SH-SY5Y - Human neuroblastoma cell line,,,
+Protocol,Protein (Photo-)Binding Assay,111,Photoallergenicity,"BIO-CHEMICALS & POLYMERS
+Human Origin
+PHYSICO-CHEMICAL ASSAYS",Protein binding,Serum Albumin (human),,,
+Protocol,CYP1A1-Inducing Potency and Cytotoxicity Test in the Hepa-1 Mouse Hepatoma Cell Line,112,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Cell Lines","Enzyme activity
+Enzyme activity: Aryl Hydrocarbon Hydroxylase (AHH)
+Enzyme activity: Cytochrome P450 oxidoreductase (CYP)
+Enzyme activity: EthoxyResorufin O-Deethylase (EROD)",Hepa-1 - Mouse hepatoma cell line,,,
+Protocol,Embryonic Stem Cell Test (EST),113,Developmental toxicity,Stem Cells,"Cell differentiation
+Cell proliferation
+Cell viability
+Vital dye reduction: MTT to formazan","BALB/3T3 clone A31 - Mouse fibroblast cell line
+D3 - Mouse embryonic stem cells",ReProTect,https://tsar.jrc.ec.europa.eu/test-method/tm1999-01,
+Method summary,Sertoli Cell Enriched Cultures - Summary,0,Effects on the male fertility,"Cell Lines
+Primary Cell Culture","Apoptosis
+Cell morphology
+Cell proliferation
+Cell viability
+Cell-cell contact: gap junction integrity
+Cell-cell contact: tight junction integrity
+Cellular functional parameters
+Gene expression profiling (omics techniques)
+Gene expression: Androgen binding protein
+Gene expression: Biomarkers
+Gene expression: Cyclin D1
+Gene expression: Transferrin
+Generation of Reactive Oxygen Species (ROS)
+Lipid peroxidation",Sertoli cell-enriched culture,ReProTect,,
+Protocol,In Vitro Micromass Teratogen Assay,114,Developmental toxicity,"Animal Origin
+Primary Cell Culture","Cell differentiation
+Cell number
+Cell proliferation
+Cell viability
+Vital dye uptake: Neutral Red (NRU)","Embryonic limb bud cultures (mouse, rat, chick)
+Embryonic rat mid- brain (mesencephalon) culture",,,
+Protocol,Rat Skin Transcutaneous Electrical Resistance (TER) Test,115,Skin Irritation and Corrosivity,"Animal Origin
+Viable Skin Explants","Transcutaneous electrical resistance
+Vital dye binding: S<span id=""id_prot=703-outerCt"">ulforhodamine B</span>",Skin (rat),,https://tsar.jrc.ec.europa.eu/test-method/tm1995-01,
+Protocol,CORROSITEX® Continuous Time Monitor Assay,116,Skin Irritation and Corrosivity,"BIO-CHEMICALS & POLYMERS
+Lattice Culture of Skin Fibroblasts",Passage through a biobarrier,Corrositex; Biobarrier Membrane,,https://tsar.jrc.ec.europa.eu/test-method/tm1998-01,
+Protocol,SKIN2 TM ZK 1350 Corrosivity Test,117,Skin Irritation and Corrosivity,"Human Origin
+Lattice Culture of Skin Fibroblasts","Cell viability
+Vital dye reduction: MTT to formazan",SKIN2<; Tissue Model (ZK1350),,,
+Protocol,EpiSkinTM Skin Corrosivity Test,118,Skin Irritation and Corrosivity,"Human Origin
+Lattice Culture of Skin Fibroblasts","Cell viability
+Vital dye reduction: MTT to formazan",RHE EpiSkinTM,,https://tsar.jrc.ec.europa.eu/test-method/tm1998-02,
+Protocol,EpiDerm TM Skin Corrosivity Test,119,Skin Irritation and Corrosivity,"Human Origin
+Lattice Culture of Skin Fibroblasts","Cell viability
+Vital dye reduction: MTT to formazan",RHE EpiDermTM,,https://tsar.jrc.ec.europa.eu/test-method/tm1998-03,
+Protocol,Fluorescein Leakage (FL) Test - SOP of L'Oreal,120,Eye Irritation,"Animal Origin
+Cell Lines",Fluorescein leakage (FL),MDCK - Madin-Darby canine kidney cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2004-02,
+Protocol,EpiDermTM Phototoxicity Assay,121,Phototoxicity,"Human Origin
+Lattice Culture of Skin Fibroblasts","Cell viability
+Vital dye reduction: MTT to formazan",RHE EpiDerm<sup>TM</sup>,,,
+Protocol,The Micromass Test - Method of Brown,122,Developmental toxicity,"Animal Origin
+Primary Cell Culture","Cell differentiation
+Cell proliferation
+Cell viability
+Vital dye uptake: Neutral Red (NRU)","Embryonic limb bud cultures (mouse, rat, chick)",,https://tsar.jrc.ec.europa.eu/test-method/tm1999-02,
+Method summary,Sertoli-Germ Cells Cocultures - Summary,0,Effects on the male fertility,Co-cultures,"Apoptosis
+Cell function: membrane damage
+Cell morphology
+Cell proliferation
+Cell viability
+Cellular functional parameters
+Gene expression profiling (omics techniques)
+Germ cell detachment",Sertoli-germ cell co-cultures,,,
+Protocol,Embryotoxicity Testing in Post-Implantation Whole Embryo Culture (WEC) - Method of Piersma,123,Developmental toxicity,EMBRYO CULTURE,"Cell viability
+Embryo functionalities
+Embryo growth
+Embryo morphology",Whole embryo culture (rat),,https://tsar.jrc.ec.europa.eu/test-method/tm1999-03,
+Protocol,"Bovine Corneal Opacity and Permeability (BCOP) Assay - SOP of Microbiological Associates LTD., UK",124,Eye Irritation,"Animal Origin
+Eye & Eye Parts","Corneal opacity
+Corneal permeability",Cornea (bovine),,,
+Protocol,The Isolated Perfused Porcine Skin Flap (IPPSF),125,Percutaneous Absorption,"Animal Origin
+Perfused Skin","Cell viability
+Flux (across skin models)
+Relative absorption
+Skin permeation",Skin (porcine flap),,,
+Protocol,ReProComet Assay,126,Effects on the male fertility,"Cell Lines
+Primary Cell Culture",DNA damage: strand breakage,"Sperm, cryopreserved",ReProTect,,
+Method summary,Short Time Exposure (STE) Test - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Corneal Models",Cell viability,SIRC - Rabbit cornea epithelial cell line,,,
+Protocol,Bovine Corneal Opacity and Permeability (BCOP) Assay,127,Eye Irritation,"Animal Origin
+Eye & Eye Parts
+Plants","Corneal opacity
+Corneal permeability",Cornea (bovine),,,
+Protocol,Toxicity Test on In Vitro Fertilisation of Bovine Oocytes,128,Effects on the female fertility,"Animal Origin
+Primary Cell Culture",Oocyte fertilisation,"Bovine cumulus/oocyte complexes [COCs]
+Sperm, cryopreserved",ReProTect,,
+Protocol,Toxicity Test on In Vitro Maturation of Bovine Oocytes,129,Effects on the female fertility,"Animal Origin
+Primary Cell Culture",Meiosis completion,Bovine cumulus/oocyte complexes [COCs],ReProTect,https://tsar.jrc.ec.europa.eu/test-method/tm2010-05,
+Method summary,"Short-Term Isolated Cornea (Bovine, Porcine) Tests - Summary",1,Eye Irritation,"Animal Origin
+Eye & Eye Parts","Corneal opacity
+Corneal thickness","Cornea (bovine)
+Cornea (porcine)",,,
+Protocol,The Cytosensor Microphysiometer (CM) Toxicity Test,130,Eye Irritation,Cell Lines,Metabolic activity,"L-929 - Mouse subcutaneous connective tissue cell line
+Potentiometric pH probe biosensor",,https://tsar.jrc.ec.europa.eu/test-method/tm2004-01,
+Protocol,EpiSkinTM Skin Irritation Test15min - 42 hours,131,Skin Irritation and Corrosivity,"Human Origin
+Primary Cell Culture
+Reconstructed Models of Keratinocytes
+TESTING STRATEGIES","Cell viability
+Vital dye reduction: MTT to formazan",RHE EpiSkinM,,,Method documentation sheets
+Protocol,GreenScreen HC TM Genotoxicity Test,132,Genotoxicity/Mutagenicity,"Cell Lines
+Human Origin","Cell proliferation
+Cell viability
+DNA damage
+Gene expression: Growth arrest and DNA damage 45 alpha (GADD45&#945;)
+Reporter gene expression: Green fluorescent protein (GFP)",TK6 - Human lymphoblastoid cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2009-08,
+Protocol,Human Whole Blood/Interleukin (IL)-1 Beta In Vitro Pyrogen Test (WBT),133,Pyrogenicity Testing,"Human Origin
+HUMAN VOLUNTEERS
+Primary Cell Culture","Mediator release: cytokines
+Mediator release: Interleukin(IL)-1 <em>beta</em>","Whole blood, fresh (human)",,https://tsar.jrc.ec.europa.eu/test-method/tm2002-01,
+Protocol,Human Cryopreserved Whole Blood/Interleukin (IL)-1 Beta In Vitro Pyrogen Test (Cryo-WBT),134,Pyrogenicity Testing,"Human Origin
+HUMAN VOLUNTEERS
+Primary Cell Culture",Mediator release: Interleukin(IL)-1 <em>beta</em>,"Whole blood, cryopreserved (human)",,https://tsar.jrc.ec.europa.eu/test-method/tm2002-02,
+Protocol,SkinEthic TM Skin Irritation Test -42bis,135,Skin Irritation and Corrosivity,"Human Origin
+HUMAN VOLUNTEERS
+Reconstructed Models of Keratinocytes
+TEST BATTERIES
+TESTING STRATEGIES","Cell viability
+Vital dye reduction: MTT to formazan",RHE SkinEthicTM,,https://tsar.jrc.ec.europa.eu/test-method/tm2008-02,Analytical method description
+Protocol,In vitro Syrian Hamster Embryo Cell Transformation Assay (SHE CTA),136,Cell transformation,"Animal Origin
+EMBRYO CULTURE
+Primary Cell Culture","Cell proliferation
+Cell viability
+Cellular functional parameters
+Colony formation
+Morphological effects
+Morphological transformation of cell colonies","Bhas 42 - Engineered mouse embryo BALB 3T3 cell line
+Syrian hamster (Mesocricetus auratus) embryo cells - SHE",,"https://tsar.jrc.ec.europa.eu/test-method/tm2005-02
+ https://tsar.jrc.ec.europa.eu/test-method/tm2005-03 
+",Annexes
+Protocol,In vitro BALB/c 3T3 Cell Transformation Assay (BALB/c 3T3 CTA),137,Cell transformation,Cell Lines,"Cell number
+Colony formation
+Morphological transformation of cell colonies",BALB/c 3T3 - Mouse fibroblast cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2004-07,Annexes
+Method summary,Silicon Microphysiometer (SM) Assay or Cytosensor Microphysiometer (CM) Assay - Summary,97,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin",Metabolic activity,"L-929 - Mouse subcutaneous connective tissue cell line
+NHEK - Normal human epidermal keratinocytes
+Potentiometric pH probe biosensor",,,
+Protocol,In vitro EpiDermTM Skin Irritation Test (EpiDerm SIT),138,Skin Irritation and Corrosivity,"Human Origin
+Primary Cell Culture
+Reconstructed Models of Keratinocytes
+TESTING STRATEGIES","Cell viability
+Mediator release: cytokines
+Vital dye reduction: MTT to formazan",RHE EpiDermTM,,https://tsar.jrc.ec.europa.eu/test-method/tm2008-01,Test system supplier SOP
+Protocol,BALB/c 3T3 Neutral Red Uptake Cytotoxicity Assay (3T3 NRU),139,Systemic Toxicity,"Animal Origin
+Cell Lines","Cell viability
+Vital dye uptake: Neutral Red (NRU)",BALB/c 3T3 - Mouse fibroblast cell line,ACuteTox,https://tsar.jrc.ec.europa.eu/test-method/tm2008-14,Data analysis template
+Protocol,Fish Embryo Acute Toxicity Test with Zebrafish (ZFET),140,Aquatic Short-Term Toxicity,"Animal Origin
+EMBRYO CULTURE",Embryo mortality,Newly fertilised zebrafish eggs,,https://tsar.jrc.ec.europa.eu/test-method/tm2006-01,Annexes
+Protocol,Metabolic Stability,141,Systemic Toxicity,"Animal Origin
+Human Origin
+Primary Cell Culture
+SUBCELLULAR FRACTION",Metabolic stability,"Hepatocytes (human)
+Hepatocytes (rat)
+Liver microsomes (human)
+Liver microsomes (rat)
+Liver S9 fractions (human)
+Liver S9 fractions (rat)",ACuteTox,,Annex 1
+Protocol,Permeability Assay on Caco-2 Cells,142,Systemic Toxicity,"Cell Lines
+Human Origin",Permeability coefficient,Caco-2 - Human colorectal adenocarcinoma cell line,ACuteTox,https://tsar.jrc.ec.europa.eu/test-method/tm2013-01,
+Protocol,Plasma Protein Binding Assay,143,Systemic Toxicity,Human Origin,Protein binding,Blood plasma (human),ACuteTox,,
+Protocol,MTT cytotoxicity assay in primary rat hepatocytes,144,Systemic Toxicity,"Animal Origin
+Primary Cell Culture","Cell viability
+Vital dye reduction: MTT to formazan",Hepatocytes (rat),ACuteTox,,Annex 1- Study template
+Protocol,Aggregating brain cell cultures for neurotoxicity testing - a high content approach: measurements of RNA synthesis and gene expression,145,Systemic Toxicity,"Brain Reaggregates
+Primary Cell Culture","Gene expression: Beta actin
+Gene expression: Glial fibrillary acidic protein (GFAP)
+Gene expression: Heat shock protein-32 / Heme oxygenase-1 (HSP-32 or HO-1)
+Gene expression: Myelin basic protein (MBP)
+Gene expression: Neurofilament protein (NF-H)
+Metabolic effects",Brain reaggregate culture (rat),ACuteTox,,
+Protocol,Neural network models for the prediction of blood-brain-barrier passage and human intestinal absorption,152,Systemic Toxicity,"(Q)SARs
+Mathematical Models (in silico)","Blood-brain barrier permeability
+Intestinal absorption",Neural network model <em>(in silico)</em>,ACuteTox,,Annexes
+Protocol,Direct Peptide Reactivity Assay (DPRA) for Skin Sensitisation Testing,154,Skin Sensitisation & Allergic Contact Dermatitis,"BIO-CHEMICALS & POLYMERS
+PHYSICO-CHEMICAL ASSAYS",Direct peptide reactivity,Peptides containing Cys or Lys (synthetic),,https://tsar.jrc.ec.europa.eu/test-method/tm2009-06,Validation study template
+Method summary,Slug Mucosal Irritation Test - Summary,0,Eye Irritation,Animal Origin,"Enzyme activity
+Mucus production
+Protein content: total","slug (Arion lusitanicus)
+slug (Limax flavus)",,,
+Protocol,KeratinoSens™,155,Skin Sensitisation & Allergic Contact Dermatitis,"Cell Lines
+Genetically Engineered Cells
+Human Origin",Gene expression: Antioxidant response element (ARE)-mediated,KeratinoSens TM; cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2010-03,Study_data analysis_templates
+Method summary,Static Diffusion Cells - Summary,0,Percutaneous Absorption,Non viable isolated tissues (epidermal membranes & full thickness skin),"Flux (across skin models)
+Permeability coefficient
+Relative absorption","Reconstituted dermal model
+Skin tissues (animal or human origin)",,,
+Protocol,Bhas 42 Cell Transformation Assay in 6- and 96-well plates,156,Cell transformation,Cell Lines,"Cell number
+Morphological transformation of cell colonies
+Plating efficiency",Bhas 42 - Engineered mouse embryo BALB 3T3 cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2012-06,Photos_reporting templates
+Method summary,Steroidogenesis assay using H295R cell line,456,Effects on Endocrine System,"Cell Lines
+Human Origin
+TESTING STRATEGIES","Cell viability
+Estrogen production
+Hormone production
+Steroidogenesis
+Testosterone production",H295R - human adrenocortical carcinoma cell line,,,
+Protocol,Ocular Irritection® Assay System,157,Eye Irritation,BIO-CHEMICALS & POLYMERS,Optical density,Protein matrix,,https://tsar.jrc.ec.europa.eu/test-method/tm2009-01,
+Protocol,human Cell Line Activation Test  (h-CLAT),158,Skin Sensitisation & Allergic Contact Dermatitis,"Genetically Engineered Cells
+Human Origin",Cell surface phenotypic biomarkers (CD86 and CD54),THP-1 - Human monocytic leukemia cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2008-05,Data analysis templates
+Protocol,Bacterial Mutation Assay (with S.typhimurium and E. coli),160,Genotoxicity/Mutagenicity,"Genetically Engineered Cells
+Microorganisms","Gene mutation
+Gene mutation: reverse mutation","<em>Escherichia coli</em>
+Salmonella typhimurium",,,
+Method summary,Suspension culture of freshly isolated or cryopreserved hepatocytes - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin
+Primary Cell Culture","Calcium homeostasis perturbation
+Cell function: membrane damage
+Cell function: mitochondrial activity
+Cell morphology
+Cell viability
+Cellular functional parameters
+DNA damage: adduct formation
+DNA damage: strand breakage
+DNA damage: strand breakage
+DNA damage: unscheduled synthesis
+Generation of Reactive Oxygen Species (ROS)
+Ion channel function, potassium
+Lipid peroxidation
+Metabolic competence
+Metabolic effects
+Protein content: metallothionein
+Steatosis",Primary hepatocytes (mammals),,,
+Method summary,Tape stripping in vitro  - Summary,0,Percutaneous Absorption,"Animal Origin
+Human Origin","Flux (across skin models)
+Partition coefficient
+Permeability coefficient","Skin tissues (animal or human origin)
+Stratum corneum",,,
+Method summary,Terminal deoxynucleotidyl transferase-mediated dUTP Nick End Labeling (TUNEL) assay - Summary,0,Drug Discovery and Activity Testing,"Animal Origin
+Cell Lines
+Human Origin",Apoptosis,Cell line cultures,,,
+Protocol,Ocular Irritation Assay for Chemicals Using EpiOcularTM EIT,164,Eye Irritation,"3-DIMENSIONAL MODELS
+Corneal Models
+Human Origin","Cell viability
+Vital dye reduction: MTT to formazan",EpiOcularTM,,https://tsar.jrc.ec.europa.eu/test-method/tm2008-10,Validation study protocol
+Method summary,Testicular Organ and Tissue Culture Systems - Summary,0,Effects on the male fertility,"Animal Origin
+ORGAN & ORGAN PARTS","Apoptosis
+Cell morphology
+Cell number
+Cell proliferation
+Cellular functional parameters",Testicular organ or tissue cultures (foetal or neonatal of different species),ReProTect,,
+Protocol,Standard operating procedure for differentiation of human induced pluripotent stem cells into post-mitotic neurons and glial cells (mixed culture),165,Stem cell culture method,"Human Origin
+Stem Cells",,hiPS(IMR90) - Human induced-pluripotent stem cells,SEURAT-1,,
+Method summary,Tetrahymena Thermophila Motility Test (TMT) - Summary,22,Eye Irritation,Microorganisms,Protozoa motility,Protozoa (<em>Tetrahymena thermophila</em>),,,
+Protocol,Standard operating procedure for expansion of rosette-derived neural stem cells,166,Stem cell culture method,"Human Origin
+Stem Cells",,hiPS(IMR90) - Human induced-pluripotent stem cells,SEURAT-1,,
+Method summary,The Drosophila Model - Summary,0,Developmental toxicity,Animal Origin,"Developmental stage: <em>D. melanogaster</em>
+Egg hatching: <em>D. melanogaster</em>
+Enzyme activity
+Fecundity
+Gene expression profiling (omics techniques)
+Generation of Reactive Oxygen Species (ROS)
+Morphological effects
+Reproductive performance
+Survival of adult fly (<em>D. melanogaster)</em>",Fuit fly (<em>Drosophila melanogaster</em>),,,
+Method summary,The frog embryo teratogenesis assay: Xenopus (FETAX) - Summary,0,Developmental toxicity,EMBRYO CULTURE,"Apoptosis
+Cell function: membrane damage
+Embryo development
+Embryo growth
+Embryo morphology
+Embryo motility
+Embryo pigmentation
+Enzyme activity: AcetylCholinEsterase (AChE)
+Gene expression: Biomarkers
+Gene expression: N-cadherin
+Larvae viability
+Morphological effects
+Oocyte fertilisation",Amphibians,,,
+Method summary,The Human Bio-Accumulation Model,163,Systemic Toxicity,Mathematical Models (in silico),"Bioaccumulation
+Bioavailability
+Systemic availability",,SEURAT-1,,
+Protocol,DNA methylation analysis using HumanMethylation450 microarray,170,Mechanistic Studies,,"CpG Methylation
+Genomic DNA Methylation",Human Methylation 450 BeadChip microarray,SEURAT-1,,
+Method summary,The Micromass Test - Summary,122,Developmental toxicity,Animal Origin,"Apoptosis
+Cartilage maturation
+Cell adhesion
+Cell cycle analysis
+Cell proliferation
+Cell viability
+Cell-cell contact: gap junction integrity
+Cellular functional parameters
+DNA damage: oxidation
+Generation of Reactive Oxygen Species (ROS)
+Incorporation of radiolabels","Embryonic limb bud cultures (mouse, rat, chick)
+Undifferentiated embryo CNS cells (rat, mouse, chicken)
+Undifferentiated embryo heart cells (chicken)",,https://tsar.jrc.ec.europa.eu/test-method/tm1999-02,
+Protocol,Analysis of histone modifications via chromatin immunoprecipitation and sequencing (ChIP-seq),171,Mechanistic Studies,,Histone modification,Chromatin immunoprecipitate,SEURAT-1,,
+Method summary,The technique of hepatocyte isolation and cryopreservation - Summary,7,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin
+Primary Cell Culture",,"Primary hepatocytes (fish)
+Primary hepatocytes (mammals)",,,
+Method summary,The use of avian embryonic tissue for studies on metabolism and metabolism-mediated toxicity of chemicals - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+IN OVO METHODS","DNA damage: adduct formation
+DNA damage: strand breakage
+DNA damage: strand breakage
+Enzyme induction: <span id=""id_met=323-outerCt"">cytochrome P450 family</span>
+Liver morphology","Avian embryo<em> in ovo</em> (hen, turkey, quail, duck, eagle)",,,
+Method summary,The use of liver slices for hepatotoxicity studies- Summary,42,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin
+Liver slices","Apoptosis
+Cell communication
+Cell function: membrane damage
+Cell morphology
+Cell viability
+Enzyme induction: <span id=""id_met=323-outerCt"">cytochrome P450 family</span>
+Gene expression profiling (omics techniques)
+Metabolic competence
+Metabolic effects
+Tissue necrosis: liver","Hand-cut liver slices
+Precision-cut liver slices",,,
+Method summary,The use of stem or progenitor cell-derived hepatocyte-like cells - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Co-cultures
+Human Origin
+Stem Cells","Apoptosis
+Cell function: membrane damage
+Cell function: membrane depolarisation
+Cell viability
+Generation of Reactive Oxygen Species (ROS)
+Lipid peroxidation",Hepatocyte-like cells derived from stem cells or progenitor cells,,,
+Method summary,The use of subcellular fractions of liver tissue and liver homogenate - Summary,0,Hepatotoxicity / Metabolism-mediated Toxicity,"Animal Origin
+Human Origin
+SUBCELLULAR FRACTION","Cell function: membrane damage
+Cell function: mitochondrial activity
+Cell function: mitochondrial activity
+Cell function: mitochondrial membrane potential
+Generation of Reactive Oxygen Species (ROS)
+Lipid peroxidation
+Metabolic effects","Liver homogenate
+Subcellular fraction of liver cells (cytosol)
+Subcellular fraction of liver cells (microsomes)
+Subcellular fraction of liver cells (mitochodria)",,,
+Method summary,The Virtual Cell Based Assay,162,Systemic Toxicity,Mathematical Models (in silico),"Cell proliferation
+Cell viability
+Cellular functional parameters",,SEURAT-1,,
+Method summary,Thermo-Gravimetric Analysis (TGA)- Summary,0,Percutaneous Absorption,"Animal Origin
+Human Origin
+Non viable isolated tissues (epidermal membranes & full thickness skin)","Dose absorbed
+Partition coefficient
+Permeability coefficient","Skin (porcine flap)
+Stratum corneum",,,
+Method summary,Tissue Equivalent Assay (TEA)  and  related Dermal Models using Fibroblasts - Summary,12,Eye Irritation,"Co-cultures
+Corneal Models
+Human Origin
+Primary Cell Culture",Cell viability,"Reconstituted dermal model
+Skin<sup>2 TM</sup> Tissue Model (1100)",,,
+Method summary,Tissue Isoelectric Focusing (TIF) of Corneal Proteins - Summary,0,Eye Irritation,"Animal Origin
+Corneal Models
+Eye & Eye Parts
+Human Origin",Tissue Isoelectric Focusing (TIF) protein profile,"Cornea (human)
+Cornea (rabbit)",,,
+Method summary,Transactivation  Assays to Detect Estrogen Receptor Agonists and Antagonists In Vitro with Stably Transfected Human Cell Lines,455,Effects on Endocrine System,Genetically Engineered Cells,"Anti-estrogenic activity
+Cell proliferation
+Cell viability
+Estrogenic activity (Estrogenicity)
+Receptor activity: Estrogen Receptor (ER)
+Receptor activity: Estrogen Receptor (ER)
+Reporter gene expression: Luciferase (Luc)","(h)ER&#945;-HeLa-9903 - Engineered human cervix carcinoma cell line
+BG1Luc-4E2 - Engineered human ovarian adenocarinoma cell line",,,
+Method summary,Trypan Blue Dye Exclusion - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin",Trypan blue exclusion,K562 - Human chronic myelogenous leukemia cell line,,,
+Method summary,Uridine Uptake Inhibition Assay - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin",Uridine uptake,3T3 - Mouse fibroblasts,,,
+Method summary,WST-1 Cytotoxicity Assay using Corneal Cells - Summary,0,Eye Irritation,"Animal Origin
+Cell Lines
+Human Origin
+Primary Cell Culture",Cell viability,"HCE - Human corneal epithelial cells
+RCE - Rabbit corneal epithelial cell line",,,
+Method summary,Zebrafish Embryo Assay for Developmental Toxicity - Summary,0,Developmental toxicity,EMBRYO CULTURE,"Developmental stage: zebrafish
+Embryo viability
+Gene expression profiling (omics techniques)
+Morphological effects","Fish embryo culture (medaka, zebrafish, Oryzias latipes)",,,
+Method summary,Assessment of mitochondrial health and cell viability with HTS/HCA in HepaRG cells exposed to nanomaterials,185,Systemic Toxicity,"CELL CULTURES
+Cell Lines","Cell function: mitochondrial activity
+Cell number
+Cell viability",HepaRG - Human hepatoma cell line,,,
+Method summary,SkinEthicTM Human Corneal Epithelium Model - Summary,0,Eye Irritation,"Cell Lines
+Corneal Models
+Human Origin","Cell viability
+Vital dye reduction: MTT to formazan","Reconstituted corneal model
+SkinEthicTM HCE",,,
+Protocol,U937 Cell Line Activation Test for Skin Sensitization (U-SENS™),183,Skin Sensitisation & Allergic Contact Dermatitis,Cell Lines Human Origin,"Cell surface phenotypic biomarker (CD86)
+Cell viability",U937 - Human Histiocytic lymphoma cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2013-02,Data analysis material
+Protocol,LuSens Assay,184,Skin Sensitisation & Allergic Contact Dermatitis,"Cell Lines
+Genetically Engineered Cells
+Human Origin","Cell viability
+Gene expression: Antioxidant response element (ARE)-mediated
+Reporter gene expression: Luciferase (Luc)
+Vital dye reduction: MTT to formazan",Transgenic keratinocyte reporter cell line -Antioxidant Response Element (ARE),,https://tsar.jrc.ec.europa.eu/test-method/tm2011-10,Annexes
+Protocol,SkinEthic™ RHE Skin Corrosion Test,188,Skin Irritation and Corrosivity,Reconstructed Models of Keratinocytes,Vital dye reduction: MTT to formazan,Skin EthicTM RhE,,,Analytical method description
+Protocol,SkinEthic™ HCE Eye Irritation Test Liquid (EITL),190,Eye Irritation,Reconstructed Models of Keratinocytes,"Cell viability
+Vital dye reduction: MTT to formazan",Human Corneal Epithelium model (SkinEthic™ HCE),,https://tsar.jrc.ec.europa.eu/test-method/tm2015-03,Analytical method description
+Protocol,SkinEthic™ HCE Eye Irritation Test Solid (EITS),191,Eye Irritation,Reconstructed Models of Keratinocytes,"Cell viability
+Vital dye reduction: MTT to formazan",Human Corneal Epithelium model (SkinEthic™ HCE),,https://tsar.jrc.ec.europa.eu/test-method/tm2015-03,Analytical method description
+Protocol,Cytochrome P450 (CYP) induction in vitro test method using cryopreserved primary human hepatocytes,193,Hepatotoxicity / Metabolism-mediated Toxicity,"Primary Cell Culture
+Human Origin",Enzyme activity: Cytochrome P450 oxidoreductase (CYP),Hepatocytes (human),,https://tsar.jrc.ec.europa.eu/test-method/tm2009-13,FORMS
+Protocol,Cytochrome P450 (CYP) enzyme induction in vitro method using cryopreserved differentiated human HepaRGTM cells,194,Hepatotoxicity / Metabolism-mediated Toxicity,"Cell Lines
+Human Origin",Enzyme activity: Cytochrome P450 oxidoreductase (CYP),HepaRG - Human hepatoma cell line,,https://tsar.jrc.ec.europa.eu/test-method/tm2009-14,FORMS
+Protocol,cMINC assay to test migration inhibition compounds on human iPSC-derived neural crest cells (NCCs),195,Basal Cytotoxicity,"Stem Cells 
+Human Origin",Cell migration,"hiPS(IMR90) - Human induced-pluripotent stem cells
+NCC - Human neural crest cell",EuToxRisk,,
+Protocol,UKN3b assay to test compound-derived neurite integrity impairment in human mature dopaminergic neurons,196,Neurotoxicity,"Cell Lines
+Human Origin",Neurite integrity,LUHMES-human LUnd Human MESencephalic cell line,EuToxRisk,,Data analysis template
+Protocol,Automated CALUX reporter gene assay procedure,197,Effects on Endocrine System,"Cell Lines
+Human Origin","cell signaling pathway activation
+Receptor agonism
+Receptor antagonism",U2-OS- human osteosarcoma cell line (ATCC HTB-96),EuToxRisk,,
+Protocol,Steady-state daunorubicin accumulation assay,198,Basal Cytotoxicity,"Cell Lines
+Human Origin",transporter inhibition,Human T-lymphoblast leukemia (CCRF-VCR1000 cell line),EuToxRisk,,
+Protocol,Steady-state mitoxantrone accumulation assay,199,Basal Cytotoxicity,"Cell Lines
+Human Origin",transporter inhibition,Human myeloid leukemia PLB985 cell line (PLB985 BCRP cells),EuToxRisk,,
+Protocol,UKN4 assay to test compound-derived impairment in neurite outgrowth in differentiating human dopaminergic neurons,200,Neurotoxicity,"Cell Lines
+Human Origin","Cell viability
+Neurite outgrowth",LUHMES-human LUnd Human MESencephalic cell line,EuToxRisk,,Data analysis template
+Protocol,Cell viability assay in HEK 293 cells by extracellular LDH and resazurin reduction after 24 h of toxicant treatment,201,Basal Cytotoxicity,"Cell Lines
+Human Origin","Enzyme leakage: Lactate DeHydrogenase (LDH)
+Extracellular lactate dehydrogenase (LDH)
+Resazurin reduction",HEK 293- Human embryonic kidney 293 cells,EuToxRisk,,
+Protocol,UKN3a assay to test compound-derived neurite integrity impairment in human mature dopaminergic neurons after long-term compound exposure,202,Neurotoxicity,"Cell Lines
+Human Origin","Cell viability
+Neurite integrity",LUHMES-human LUnd Human MESencephalic cell line,EuToxRisk,,Data analysis template
+Protocol,Cell viability in SH-SY5Y cells by the ATP luminescence assay,205,Basal Cytotoxicity,"Cell Lines
+Human Origin",cell viability ATP,SH-SY5Y - Human neuroblastoma cell line,EuToxRisk,,
+Protocol,Calcium assay using differentiated SH-SY5Y cells,206,Neurotoxicity,"Cell Lines
+Human Origin","intracellular calcium concentration
+potassium chloride (KCl)-activated voltage operated calcium channels (VOCC)",SH-SY5Y - Human neuroblastoma cell line,EuToxRisk,,Data analysis template
+Protocol,ATP viability assay for measuring acute toxicity (72 hours exposure) on hiPSC derived TD42 neuronal cultures in 96-well plates.,207,Basal Cytotoxicity,"Cell Lines
+Human Origin Stem cells",cell viability ATP,SBAD2- Human induced pluripotent stem cell (iPSC) ,EuToxRisk,,
+Protocol,ATP viability assay for measuring acute toxicity (72 hours exposure) on hiPSC derived TD21 neuronal cultures in 96-well plates,208,Basal Cytotoxicity,"Cell Lines
+Human Origin Stem cells",cell viability ATP,SBAD2- Human induced pluripotent stem cell (iPSC) ,EuToxRisk,,
+Protocol,ATP viability assay for measuring chronic toxicity (120 hours exposure) on hiPSC derived TD21 neuronal cultures in 96-well plates,209,Basal Cytotoxicity,"Cell Lines
+Human Origin Stem cells",cell viability ATP,SBAD2- Human induced pluripotent stem cell (iPSC) ,EuToxRisk,,
+Protocol,ATP viability assay to test for neuro-cytotoxicity in SH-SY5Y neuroblastoma cells (72h),210,Neurotoxicity,"Cell Lines
+Human Origin",cell viability ATP,SH-SY5Y - Human neuroblastoma cell line,EuToxRisk,,
+Protocol,ATP viability assay to test for neuro-cytotoxicity in SH-SY5Y neuroblastoma cells (120h),211,Neurotoxicity,"Cell Lines
+Human Origin",cell viability ATP,SH-SY5Y - Human neuroblastoma cell line,EuToxRisk,,
+Method summary,Follicle Culture Bioassay (FBA),0,Effects on the female fertility,Animal Origin,"Cell development
+Cellular functional parameters
+Folliculogenesis
+Oogenesis",Follicle culture system,ReProTect,,
+Protocol,epiCS Skin Irritation Test (epiCS  SIT),212,Skin Irritation and Corrosivity,Human origin                                                                                                                                                     Reconstructed model of keratinocytes,Cell viability                                                                                                                                                                        Vital dye reduction: MTT to formazan,3D in vitro reconstructed Human Epidermis Equivalent (epiCS©),,https://tsar.jrc.ec.europa.eu/test-method/tm2009-09,
+Protocol,epiCS Skin Corrosion Test (epiCS SCT),213,Skin Irritation and Corrosivity,Human origin                                                                                                                                                     Reconstructed model of keratinocytes,Cell viability                                                                                                                                                                        Vital dye reduction: MTT to formazan,3D in vitro reconstructed Human Epidermis Equivalent (epiCS©),,https://tsar.jrc.ec.europa.eu/test-method/tm2007-01 ,
+Protocol,Expansion and standard maintenance of SBAD2 hiPSC derived NPCs,214,Stem cell culture method,"Cell Lines
+Human Origin",,SBAD2- Human induced pluripotent stem cell (iPSC) ,EuToxRisk,,
+Protocol,Expansion and standard maintenance of SBAD2 human induced Pluripotent Stem Cells (hiPSC),215,Stem cell culture method,"Cell Lines
+Human Origin",,SBAD2- Human induced pluripotent stem cell (iPSC) ,EuToxRisk,,
+Protocol,Cell culture protocol for the SH-SY5Y neuroblastoma cell line,216,Cell culture method,"Cell Lines
+Human Origin",,SH-SY5Y - Human neuroblastoma cell line,EuToxRisk,,
+Protocol,Kinetic Direct Peptide Reactivity Assay (kDPRA),217,Skin Sensitisation & Allergic Contact Dermatitis,"BIO-CHEMICALS & POLYMERS
+
+PHYSICO-CHEMICAL ASSAYS",Reaction kinetics of direct peptide reactivity,Peptides containing Cys  (Synthetic heptapeptide),,,Suppl material (Annex I+Evaluation template)
+Protocol,PeriTox-test to test neurotoxicants on human iPSC-derived immature dorsal root ganglia-like cells,218,"Neurotoxicity, Stem cell culture method","Cell Lines
+Human Origin","Cell viability
+Neurite outgrowth",human mini circle (mc) induced pluripotent stem cell (iPSC)  line (derived from adult human adipose stem cells),EuToxRisk,,

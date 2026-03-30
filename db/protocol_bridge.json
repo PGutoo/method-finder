@@ -1,0 +1,225 @@
+{
+  "groups": {
+    "acute_toxicity": [
+      "Acute",
+      "Basal Cytotoxicity",
+      "Systemic Toxicity"
+    ],
+    "repeated_dose": [
+      "Repeated Dose",
+      "Chronic",
+      "Hepatotoxicity"
+    ],
+    "skin_eye": [
+      "Skin Irritation",
+      "Eye Irritation",
+      "Corrosivity"
+    ],
+    "genotoxicity": [
+      "Genotoxicity",
+      "Mutagenicity",
+      "Ames",
+      "DNA binding"
+    ],
+    "developmental": [
+      "Developmental toxicity",
+      "Embryo",
+      "Teratogen"
+    ],
+    "reproductive": [
+      "Reproductive toxicity",
+      "Fertility"
+    ],
+    "carcinogenicity": [
+      "Carcinogenicity",
+      "Cell transformation",
+      "Tumor"
+    ],
+    "bovine_ocular_ex_vivo": [
+      "Eye Irritation",
+      "BCOP",
+      "Bovine",
+      "Cornea",
+      "Corneal",
+      "Opacity",
+      "Permeability",
+      "Isolated Cornea"
+    ]
+  },
+  "rules": [
+    {
+      "match": "substring",
+      "text": "draize eye test",
+      "keywords": [
+        "Eye Irritation",
+        "Corrosivity",
+        "BCOP",
+        "HET-CAM",
+        "EpiOcular"
+      ]
+    },
+    {
+      "match": "substring",
+      "text": "rabbit irritation",
+      "keywords": [
+        "Skin Irritation",
+        "Eye Irritation"
+      ]
+    },
+    {
+      "match": "substring",
+      "text": "eveit",
+      "group": "bovine_ocular_ex_vivo"
+    },
+    {
+      "match": "substring",
+      "text": "ex vivo eye irritation test",
+      "group": "bovine_ocular_ex_vivo"
+    },
+    {
+      "match": "substring",
+      "text": "perfusion corneal culture",
+      "group": "bovine_ocular_ex_vivo"
+    },
+    {
+      "match": "substring",
+      "text": "acto e.v.",
+      "group": "bovine_ocular_ex_vivo"
+    },
+    {
+      "match": "substring",
+      "text": "acto e.v",
+      "group": "bovine_ocular_ex_vivo"
+    },
+    {
+      "match": "substring",
+      "text": "acute tox",
+      "group": "acute_toxicity"
+    },
+    {
+      "match": "substring",
+      "text": "acute toxicity",
+      "group": "acute_toxicity"
+    },
+    {
+      "match": "substring",
+      "text": "repeated dose",
+      "group": "repeated_dose"
+    },
+    {
+      "match": "substring",
+      "text": "skin irritation",
+      "group": "skin_eye"
+    },
+    {
+      "match": "substring",
+      "text": "eye irritation",
+      "group": "skin_eye"
+    },
+    {
+      "match": "substring",
+      "text": "carcinogenicity",
+      "group": "carcinogenicity"
+    },
+    {
+      "match": "substring",
+      "text": "genotoxicity",
+      "group": "genotoxicity"
+    },
+    {
+      "match": "substring",
+      "text": "developmental",
+      "group": "developmental"
+    },
+    {
+      "match": "substring",
+      "text": "reproductive",
+      "group": "reproductive"
+    },
+    {
+      "match": "substring",
+      "text": "fertility",
+      "group": "reproductive"
+    },
+    {
+      "match": "substring",
+      "text": "teratogen",
+      "group": "developmental"
+    },
+    {
+      "match": "substring",
+      "text": "embryo",
+      "group": "developmental"
+    },
+    {
+      "match": "label",
+      "text": "Acute Systemic Toxicity",
+      "group": "acute_toxicity"
+    },
+    {
+      "match": "label",
+      "text": "Repeated Dose Toxicity",
+      "group": "repeated_dose"
+    },
+    {
+      "match": "label",
+      "text": "Hepatotoxicity / Metabolism-mediated Toxicity",
+      "group": "repeated_dose"
+    },
+    {
+      "match": "label",
+      "text": "Skin Irritation and Corrosivity",
+      "group": "skin_eye"
+    },
+    {
+      "match": "label",
+      "text": "Eye Irritation",
+      "group": "skin_eye"
+    },
+    {
+      "match": "label",
+      "text": "Genotoxicity",
+      "group": "genotoxicity"
+    },
+    {
+      "match": "label",
+      "text": "Developmental toxicity",
+      "group": "developmental"
+    },
+    {
+      "match": "label",
+      "text": "Carcinogenicity",
+      "group": "carcinogenicity"
+    },
+    {
+      "match": "label",
+      "text": "Carcinogenicity and Histology",
+      "group": "carcinogenicity"
+    },
+    {
+      "match": "label",
+      "text": "Acute Toxicity",
+      "group": "acute_toxicity"
+    },
+    {
+      "match": "label",
+      "text": "Repeated Dose",
+      "group": "repeated_dose"
+    },
+    {
+      "match": "label",
+      "text": "Skin & Eye Irritation",
+      "group": "skin_eye"
+    },
+    {
+      "match": "label",
+      "text": "Developmental Toxicity",
+      "group": "developmental"
+    },
+    {
+      "match": "label",
+      "text": "Reproductive Toxicity",
+      "group": "reproductive"
+    }
+  ]
+}
