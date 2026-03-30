@@ -1,4 +1,7 @@
 Flask
 requests
-groq
 Markdown>=3.5
+python-dotenv>=1.0.0
+pandas>=2.0.0
+rapidfuzz>=3.0.0
+pytest>=8.0.0

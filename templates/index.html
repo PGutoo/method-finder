@@ -142,6 +142,33 @@
             background: #2563eb;
         }
 
+        .sample-methods {
+            margin-top: 10px;
+        }
+
+        .sample-methods label {
+            display: block;
+            font-size: 12px;
+            color: #94a3b8;
+            margin-bottom: 6px;
+        }
+
+        .sample-methods select {
+            width: 100%;
+            padding: 10px 12px;
+            border-radius: 8px;
+            border: 1px solid #334155;
+            background: #0f172a;
+            color: #e2e8f0;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        .sample-methods select:focus {
+            outline: 2px solid #3b82f6;
+            outline-offset: 1px;
+        }
+
         .response {
             margin-top: 20px;
             background: #0f172a;
@@ -151,8 +178,18 @@
             line-height: 1.5;
         }
 
+        .response[hidden] {
+            display: none !important;
+        }
+
         .response--plain {
             white-space: pre-wrap;
+        }
+
+        .response--error {
+            border: 1px solid #b91c1c;
+            background: #1c1917;
+            color: #fecaca;
         }
 
         .response--md {
@@ -239,10 +276,40 @@
             margin: 0.5rem 0;
         }
 
-        .loading {
-            text-align: center;
+        .status-bar {
+            width: 100%;
             margin-top: 10px;
-            display: none;
+            padding: 10px 12px;
+            border-radius: 8px;
+            font-size: 13px;
+            line-height: 1.45;
+            min-height: 2.75rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            box-sizing: border-box;
+            border: 1px solid transparent;
+        }
+
+        .status-bar[hidden] {
+            display: none !important;
+        }
+
+        .status-bar--loading {
+            background: #0f172a;
+            border-color: #334155;
+            color: #94a3b8;
+        }
+
+        .status-bar--error {
+            background: #1c1917;
+            border-color: #b91c1c;
+            color: #fecaca;
+            justify-content: flex-start;
+            text-align: left;
+            white-space: pre-wrap;
+            word-break: break-word;
         }
     </style>
 </head>
@@ -269,29 +336,120 @@
         </label>
     </div>
 
-    <textarea id="prompt" placeholder="Which testing method will you use?"></textarea>
+    <textarea id="prompt" placeholder="Describe the experiment you want to analyze."></textarea>
 
-    <button onclick="sendPrompt()">Send</button>
+    <div class="sample-methods" id="sampleMethodsBlock" hidden>
+        <label for="sampleSelect">Sample methods</label>
+        <select id="sampleSelect" aria-label="Load a sample Materials and Methods excerpt">
+            <option value="">— Choose a sample —</option>
+        </select>
+    </div>
 
-    <div class="loading" id="loading">Loading...</div>
+    <button type="button" onclick="sendPrompt()">Send</button>
 
-    <div class="response response--plain" id="response"></div>
+    <div
+        id="statusBar"
+        class="status-bar"
+        role="status"
+        aria-live="polite"
+        aria-atomic="true"
+        hidden
+    ></div>
+
+    <div class="response response--plain" id="response" hidden></div>
 </div>
 
 <script>
+    (function initSampleMethods() {
+        const select = document.getElementById("sampleSelect");
+        const block = document.getElementById("sampleMethodsBlock");
+        const promptEl = document.getElementById("prompt");
+        if (!select || !promptEl) return;
+
+        let samplesCache = null;
+
+        async function loadSamples() {
+            if (samplesCache) return samplesCache;
+            try {
+                const res = await fetch("/api/sample-inputs");
+                if (!res.ok) return [];
+                const data = await res.json();
+                samplesCache = Array.isArray(data) ? data : [];
+            } catch (_) {
+                samplesCache = [];
+            }
+            return samplesCache;
+        }
+
+        async function populateSelect() {
+            const samples = await loadSamples();
+            if (block) {
+                if (samples.length) {
+                    block.removeAttribute("hidden");
+                } else {
+                    block.setAttribute("hidden", "");
+                }
+            }
+            for (let i = 0; i < samples.length; i++) {
+                const s = samples[i];
+                if (!s || s.id == null) continue;
+                const opt = document.createElement("option");
+                opt.value = String(s.id);
+                opt.textContent = (s.category || "—") + " — " + (s.endpoint || "—");
+                select.appendChild(opt);
+            }
+        }
+
+        select.addEventListener("change", async function () {
+            const id = select.value;
+            if (!id) return;
+            const samples = await loadSamples();
+            const row = samples.find(function (s) {
+                return s && String(s.id) === id;
+            });
+            const text = row && (row.full_methods_text || row.original_methods_text);
+            if (text) {
+                promptEl.value = text;
+            }
+        });
+
+        populateSelect();
+    })();
+
     function selectedModelKey() {
         const el = document.querySelector('input[name="runMode"]:checked');
         return el ? el.value : "test";
     }
 
+    function setStatusBar(mode, text) {
+        const bar = document.getElementById("statusBar");
+        if (!bar) return;
+        bar.textContent = text || "";
+        bar.className = "status-bar" + (mode ? " status-bar--" + mode : "");
+        if (text || mode === "loading") {
+            bar.removeAttribute("hidden");
+        } else {
+            bar.setAttribute("hidden", "");
+        }
+    }
+
+    function responseHasVisibleContent(el) {
+        if (!el) return false;
+        if (el.classList.contains("response--md")) {
+            return el.innerHTML.trim().length > 0;
+        }
+        return (el.textContent || "").trim().length > 0;
+    }
+
     async function sendPrompt() {
         const prompt = document.getElementById("prompt").value;
         const responseDiv = document.getElementById("response");
-        const loading = document.getElementById("loading");
 
+        responseDiv.innerHTML = "";
         responseDiv.textContent = "";
         responseDiv.className = "response response--plain";
-        loading.style.display = "block";
+        responseDiv.setAttribute("hidden", "");
+        setStatusBar("loading", "Loading…");
 
         try {
             const res = await fetch("/openrouter", {
@@ -299,29 +457,69 @@
                 headers: {
                     "Content-Type": "application/json"
                 },
-                body: JSON.stringify({ prompt, model: selectedModelKey() })
+                body: JSON.stringify({
+                    prompt,
+                    model: selectedModelKey(),
+                    enrich_matches: true
+                })
             });
-
-            if (!res.ok) {
-                const err = await res.text();
-                throw new Error(err);
-            }
 
             const ct = (res.headers.get("content-type") || "").toLowerCase();
             const body = await res.text();
-            if (ct.includes("text/html")) {
+
+            if (!res.ok) {
+                let detail = body.trim();
+                if (ct.includes("application/json")) {
+                    try {
+                        const j = JSON.parse(body);
+                        if (j && typeof j.error === "string") detail = j.error;
+                        else if (j && j.error != null) detail = JSON.stringify(j.error, null, 2);
+                    } catch (_) { /* keep raw body */ }
+                }
+                const msg = detail
+                    ? `Error (${res.status}): ${detail}`
+                    : `Error (${res.status})`;
+                throw new Error(msg);
+            }
+
+            if (ct.includes("application/json")) {
+                try {
+                    const j = JSON.parse(body);
+                    if (j && typeof j.report_html === "string" && j.report_html.length) {
+                        responseDiv.className = "response response--md";
+                        responseDiv.innerHTML = j.report_html;
+                    } else {
+                        responseDiv.className = "response response--plain";
+                        responseDiv.textContent = JSON.stringify(j, null, 2);
+                    }
+                } catch (_) {
+                    responseDiv.className = "response response--plain";
+                    responseDiv.textContent = body;
+                }
+            } else if (ct.includes("text/html")) {
                 responseDiv.className = "response response--md";
                 responseDiv.innerHTML = body;
             } else {
                 responseDiv.className = "response response--plain";
                 responseDiv.textContent = body;
             }
+
+            if (responseHasVisibleContent(responseDiv)) {
+                responseDiv.removeAttribute("hidden");
+            } else {
+                responseDiv.setAttribute("hidden", "");
+            }
         } catch (err) {
+            responseDiv.innerHTML = "";
+            responseDiv.textContent = "";
             responseDiv.className = "response response--plain";
-            responseDiv.textContent = "Erro ao chamar API";
+            responseDiv.setAttribute("hidden", "");
+            const msg = err instanceof Error ? err.message : String(err);
+            setStatusBar("error", msg);
+            return;
         }
 
-        loading.style.display = "none";
+        setStatusBar("", "");
     }
 </script>
 

@@ -10,7 +10,22 @@
 
 ## Section 3.5.1: Acute Toxicity (LD50)
 
-**Original Intent:** Determine the lethal dose (LD50) using 60 Wistar rats via p.o. and i.p. routes.
+### Extracted parameters
+
+| Parameter | Value |
+| :--- | :--- |
+| **Category** | Acute Tox |
+| **Species** | Rat |
+| **Strain** | Wistar |
+| **Sex** | male |
+| **Animals (n)** | 60 |
+| **Route** | p.o. / i.p. |
+| **Duration** | up to 24 h observation |
+| **Organs / tissues** | — |
+| **Endpoints** | LD50, mortality, clinical signs |
+| **Regulatory reference** | Yes |
+| **Test article** | T. parthenium essential oil |
+| **Procedure** | Single-dose acute toxicity; Litchfield–Wilcoxon LD50 |
 
 ### Recommended Alternatives
 
@@ -25,7 +40,22 @@
 
 ## Section 3.5.2: Repeated Dose Toxicity (28-Day)
 
-**Original Intent:** Daily oral administration for 28 days to monitor blood and serum markers in 20 rats.
+### Extracted parameters
+
+| Parameter | Value |
+| :--- | :--- |
+| **Category** | Repeated Dose |
+| **Species** | Rat |
+| **Strain** | Wistar |
+| **Sex** | male |
+| **Animals (n)** | 20 |
+| **Route** | p.o. (gavage) |
+| **Duration** | 28 days + sampling |
+| **Organs / tissues** | blood (serum) |
+| **Endpoints** | body weight, hematology, serum biochemistry |
+| **Regulatory reference** | No |
+| **Test article** | T. parthenium EO in vehicle |
+| **Procedure** | 28-day repeated oral toxicity |
 
 ### Recommended Alternatives
 
@@ -40,7 +70,22 @@
 
 ## Section 3.5.3: Histological Evaluation
 
-**Original Intent:** Post-euthanasia examination of organic structure (Brain, Heart, Liver, Kidney, Spleen).
+### Extracted parameters
+
+| Parameter | Value |
+| :--- | :--- |
+| **Category** | Other (histology) |
+| **Species** | Rat |
+| **Strain** | Wistar |
+| **Sex** | not stated |
+| **Animals (n)** | subset |
+| **Route** | — |
+| **Duration** | day 29 |
+| **Organs / tissues** | brain, heart, stomach, liver, spleen, kidney |
+| **Endpoints** | H&E histopathology |
+| **Regulatory reference** | No |
+| **Test article** | — |
+| **Procedure** | Post-mortem organs for histology |
 
 ### Recommended Alternatives
 
